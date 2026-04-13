@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MuscleMend - Athlete Recovery Support</title>
+    <style>
+        /* [KEEPING ALL YOUR ORIGINAL CSS EXACTLY AS IT WAS] */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --deep-blue: #0f172a; --dark-blue: #1e3a8a; --primary-blue: #1e40af;
+            --matte-blue: #2563eb; --light-blue: #3b82f6; --lighter-blue: #60a5fa;
+            --pale-blue: #e0e7ff; --sky-blue: #0284c7; --text-dark: #0f172a;
+            --text-light: #64748b; --accent: #06b6d4;
+        }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0c4a6e 100%); min-height: 100vh; color: var(--text-dark); position: relative; }
+        body::before { content: ''; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle at 20% 50%, rgba(59, 130, 246, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 80%, rgba(6, 182, 212, 0.1) 0%, transparent 50%); pointer-events: none; z-index: 0; }
+        main { position: relative; z-index: 1; max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
+        header { background: linear-gradient(135deg, var(--primary-blue) 0%, var(--sky-blue) 100%); color: white; padding: 1.5rem 2rem; box-shadow: 0 8px 32px rgba(30, 64, 175, 0.3); position: sticky; top: 0; z-index: 100; backdrop-filter: blur(10px); border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+        .header-content { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 1rem; }
+        .logo { width: 50px; height: 50px; background: rgba(255, 255, 255, 0.2); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: bold; }
+        .logo svg { width: 100%; height: 100%; filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2)); }
+        .header-text h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.5px; }
+        .header-text p { font-size: 0.9rem; opacity: 0.9; }
+        .container { background: white; border-radius: 16px; box-shadow: 0 10px 40px rgba(30, 64, 175, 0.1); padding: 3rem; display: none; animation: slideIn 0.4s ease-out; }
+        .container.active { display: block; }
+        @keyframes slideIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        h2 { font-size: 2.5rem; color: var(--primary-blue); margin-bottom: 1rem; }
+        .subtitle { font-size: 1.1rem; color: var(--text-light); margin-bottom: 2rem; }
+        .form-section { margin: 2.5rem 0; padding: 2rem; background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-radius: 12px; border-left: 4px solid var(--light-blue); }
+        .form-section label { display: block; font-size: 1.1rem; font-weight: 600; color: var(--primary-blue); margin-bottom: 1.5rem; margin-top: 1.5rem; }
+        .button-group { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+        .btn { padding: 1rem 1.5rem; border: 2px solid var(--pale-blue); background: white; color: var(--primary-blue); border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 1rem; transition: all 0.3s ease; }
+        .btn:hover { border-color: var(--light-blue); background: var(--pale-blue); transform: translateY(-2px); }
+        .btn.selected { background: var(--light-blue); color: white; border-color: var(--light-blue); }
+        input[type="text"] { width: 100%; padding: 1rem; border: 2px solid var(--pale-blue); border-radius: 8px; font-size: 1rem; margin-bottom: 1.5rem; }
+        input[type="range"] { width: 100%; height: 8px; border-radius: 4px; background: var(--pale-blue); -webkit-appearance: none; margin: 1.5rem 0; }
+        input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 24px; height: 24px; border-radius: 50%; background: var(--light-blue); cursor: pointer; }
+        .confidence-value { font-size: 2rem; font-weight: 700; color: var(--light-blue); margin: 0.5rem 0; }
+        .button-container { display: flex; gap: 1rem; margin-top: 3rem; justify-content: center; }
+        .btn-primary { background: linear-gradient(135deg, var(--light-blue) 0%, var(--sky-blue) 100%); color: white; border: none; padding: 1.2rem 2.5rem; font-size: 1.1rem; font-weight: 600; border-radius: 8px; cursor: pointer; flex: 1; max-width: 300px; }
+        .btn-primary:disabled { opacity: 0.6; cursor: not-allowed; }
+        .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin: 2rem 0; }
+        .card { background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-left: 4px solid var(--light-blue); padding: 2rem; border-radius: 12px; }
+        .severity-badge { display: inline-block; padding: 0.75rem 1.5rem; border-radius: 20px; font-weight: 600; margin: 1rem 0; }
+        .severity-mild { background: #d1fae5; color: #065f46; }
+        .severity-moderate { background: #fef3c7; color: #92400e; }
+        .severity-severe { background: #fee2e2; color: #7f1d1d; }
+        .probability-bar { width: 100%; height: 12px; background: var(--pale-blue); border-radius: 6px; overflow: hidden; margin: 2rem 0; }
+        .probability-fill { height: 100%; background: linear-gradient(90deg, var(--light-blue) 0%, var(--sky-blue) 100%); transition: width 1s ease-out; }
+        .probability-value { font-size: 3rem; font-weight: 700; color: var(--light-blue); text-align: center; }
+        .treatment-step { background: white; padding: 1.5rem; margin: 1rem 0; border-radius: 8px; border-left: 4px solid var(--light-blue); display: flex; gap: 1.5rem; }
+        .step-number { background: var(--light-blue); color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; }
+        .emergency-alert { background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%); border: 3px solid #ef4444; border-radius: 12px; padding: 3rem; text-align: center; }
+        .ai-insight { background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border: 2px solid var(--light-blue); padding: 2rem; border-radius: 12px; margin: 2rem 0; }
+        .highlight { color: var(--light-blue); font-weight: 600; }
+        .injury-selection { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+        .injury-btn { padding: 1.2rem 1rem; border: 2px solid var(--pale-blue); background: white; color: var(--primary-blue); border-radius: 8px; cursor: pointer; font-weight: 600; text-align: center; }
+        .injury-btn.selected { background: var(--light-blue); color: white; border-color: var(--light-blue); }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <g stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M 20 40 Q 30 35 50 35 Q 70 35 80 40 L 80 60 Q 70 65 50 65 Q 30 65 20 60 Z"/>
+                        <line x1="45" y1="45" x2="55" y2="55" stroke-width="2"/>
+                        <line x1="55" y1="45" x2="45" y2="55" stroke-width="2"/>
+                    </g>
+                </svg>
+            </div>
+            <div class="header-text">
+                <h1>MuscleMend</h1>
+                <p>AI-Powered Athlete Recovery Support</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="assessment" class="container active">
+            <h2>Injury Assessment</h2>
+            <p class="subtitle">Personalized AI recovery protocols based on clinical data</p>
+
+            <div class="form-section">
+                <label>Injury Type</label>
+                <div class="injury-selection">
+                    <button class="injury-btn" onclick="selectInjury('sprained ankle', event)">Sprained Ankle</button>
+                    <button class="injury-btn" onclick="selectInjury('muscle strain', event)">Muscle Strain</button>
+                    <button class="injury-btn" onclick="selectInjury('overuse', event)">Overuse</button>
+                    <button class="injury-btn" onclick="selectInjury('knee injury', event)">Knee Injury</button>
+                </div>
+                <input type="text" id="customInjury" placeholder="Or type other injury...">
+            </div>
+
+            <div class="form-section">
+                <label>Can you put weight on it?</label>
+                <div class="button-group">
+                    <button class="btn" onclick="selectWeight('yes', event)">Yes</button>
+                    <button class="btn" onclick="selectWeight('no', event)">No</button>
+                </div>
+
+                <label>Does it hurt even when still?</label>
+                <div class="button-group">
+                    <button class="btn" onclick="selectPain('yes', event)">Yes</button>
+                    <button class="btn" onclick="selectPain('no', event)">No</button>
+                </div>
+
+                <label>Did you feel a 'snap'?</label>
+                <div class="button-group">
+                    <button class="btn" onclick="selectSnap('yes', event)">Yes</button>
+                    <button class="btn" onclick="selectSnap('no', event)">No</button>
+                </div>
+
+                <label>Limb Confidence (1-10): <span class="confidence-value" id="confidenceValue">5</span></label>
+                <input type="range" id="confidence" min="1" max="10" value="5" oninput="updateConfidence(this.value)">
+            </div>
+
+            <div class="button-container">
+                <button id="submitBtn" class="btn-primary" onclick="submitAssessment()">Get AI Assessment</button>
+            </div>
+        </div>
+
+        <div id="results" class="container">
+            <h2 id="resultTitle">Assessment Results</h2>
+            <p id="resultDescription" class="subtitle"></p>
+            <div id="severityBadge" class="severity-badge"></div>
+
+            <div class="probability-value" id="probabilityValue">0%</div>
+            <div class="probability-bar"><div id="probabilityFill" class="probability-fill" style="width: 0%"></div></div>
+            <p style="text-align:center; color: var(--text-light); margin-bottom: 2rem;">AI Predicted Recovery Success Rate</p>
+
+            <div class="results-grid">
+                <div class="card"><h3>📋 Summary</h3><p id="injurySummary"></p></div>
+                <div class="card"><h3>💡 Analysis</h3><p id="clinicalAssessment"></p></div>
+            </div>
+
+            <h3>Step 1: Immediate Care</h3>
+            <div id="acuteTreatment"></div>
+            <h3>Step 2: Rehabilitation</h3>
+            <div id="recoveryTreatment"></div>
+
+            <div class="ai-insight">
+                <h3>🧠 AI Insight</h3>
+                <p id="aiInsightText">Loading insight...</p>
+            </div>
+
+            <div class="button-container">
+                <button class="btn-primary" onclick="resetForm()">New Assessment</button>
+            </div>
+        </div>
+
+        <div id="emergency" class="container">
+            <div class="emergency-alert">
+                <h2>URGENT MEDICAL ALERT</h2>
+                <p>Seek professional care immediately.</p>
+            </div>
+            <div class="button-container">
+                <button class="btn-primary" onclick="resetForm()">Start Over</button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const state = { injuryType: '', weight: null, pain: null, snap: null, confidence: 5 };
+
+        const remedyDb = {
+            'sprained ankle': { acute: ['RICE protocol for 48h', 'Avoid weight bearing'], recovery: ['Ankle alphabets', 'Balance drills'] },
+            'muscle strain': { acute: ['Neutral positioning', 'Ice compression'], recovery: ['Dynamic stretching', 'Bodyweight resistance'] },
+            'overuse': { acute: ['Complete rest', 'Heat therapy'], recovery: ['Foam rolling', 'Swimming'] },
+            'knee injury': { acute: ['Straight leg elevation', 'Compression sleeve'], recovery: ['Wall sits', 'Quad sets'] }
+        };
+
+        function selectInjury(val, e) {
+            state.injuryType = val;
+            document.querySelectorAll('.injury-btn').forEach(b => b.classList.remove('selected'));
+            e.currentTarget.classList.add('selected');
+        }
+
+        function selectWeight(val, e) {
+            state.weight = val === 'yes';
+            document.querySelectorAll('[onclick*="selectWeight"]').forEach(b => b.classList.remove('selected'));
+            e.currentTarget.classList.add('selected');
+        }
+
+        function selectPain(val, e) {
+            state.pain = val === 'yes';
+            document.querySelectorAll('[onclick*="selectPain"]').forEach(b => b.classList.remove('selected'));
+            e.currentTarget.classList.add('selected');
+        }
+
+        function selectSnap(val, e) {
+            state.snap = val === 'yes';
+            document.querySelectorAll('[onclick*="selectSnap"]').forEach(b => b.classList.remove('selected'));
+            e.currentTarget.classList.add('selected');
+        }
+
+        function updateConfidence(val) {
+            state.confidence = parseInt(val);
+            document.getElementById('confidenceValue').textContent = val;
+        }
+
+        function assessSeverity() {
+            if (state.weight === false || state.snap === true) return { label: 'Severe', desc: 'Potential rupture/tear.', emergency: true };
+            if (state.pain === true) return { label: 'Moderate', desc: 'Partial tear or high inflammation.', emergency: false };
+            return { label: 'Mild', desc: 'Minor strain or stretch.', emergency: false };
+        }
+
+        async function submitAssessment() {
+            const custom = document.getElementById('customInjury').value.trim();
+            if(custom) state.injuryType = custom;
+
+            if(!state.injuryType || state.weight === null) return alert('Please complete the form.');
+
+            const severity = assessSeverity();
+            if(severity.emergency) return showScreen('emergency');
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true; btn.textContent = "AI is thinking...";
+
+            try {
+                // REPLACE THIS URL with your Render/Railway URL after deployment
+                const API_URL = 'http://127.0.0.1:5000/predict'; 
+
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        injuryType: state.injuryType,
+                        severityLabel: severity.label,
+                        confidence: state.confidence
+                    })
+                });
+                
+                const data = await response.json();
+                if(data.success) {
+                    displayResults(severity, data.probability, data.top_feature);
+                    showScreen('results');
+                }
+            } catch (err) {
+                alert("Backend Error: Ensure your Python server is running.");
+            } finally {
+                btn.disabled = false; btn.textContent = "Get AI Assessment";
+            }
+        }
+
+        function displayResults(sev, prob, topFeature) {
+            document.getElementById('resultTitle').textContent = state.injuryType.toUpperCase();
+            document.getElementById('resultDescription').textContent = sev.desc;
+            
+            const badge = document.getElementById('severityBadge');
+            badge.textContent = sev.label;
+            badge.className = `severity-badge severity-${sev.label.toLowerCase()}`;
+
+            const pct = Math.round(prob * 100);
+            document.getElementById('probabilityFill').style.width = pct + '%';
+            document.getElementById('probabilityValue').textContent = pct + '%';
+
+            document.getElementById('injurySummary').textContent = `Assessing ${state.injuryType} with ${sev.label} severity.`;
+            document.getElementById('clinicalAssessment').textContent = sev.desc;
+            
+            document.getElementById('aiInsightText').innerHTML = `The Random Forest model identified <span class="highlight">${topFeature}</span> as the primary driver for your recovery success.`;
+
+            const treat = remedyDb[state.injuryType.toLowerCase()] || { acute: ['Rest and Ice'], recovery: ['Consult professional'] };
+            renderList('acuteTreatment', treat.acute);
+            renderList('recoveryTreatment', treat.recovery);
+        }
+
+        function renderList(id, items) {
+            document.getElementById(id).innerHTML = items.map((s, i) => `
+                <div class="treatment-step">
+                    <div class="step-number">${i+1}</div>
+                    <div class="step-content"><p>${s}</p></div>
+                </div>`).join('');
+        }
+
+        function showScreen(id) {
+            document.querySelectorAll('.container').forEach(c => c.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            window.scrollTo(0,0);
+        }
+
+        function resetForm() { location.reload(); }
+    </script>
+</body>
+</html>

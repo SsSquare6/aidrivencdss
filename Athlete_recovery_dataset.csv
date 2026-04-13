@@ -1,0 +1,1001 @@
+Athlete_ID,Injury_Type,Injury_Severity,Recovery_Time,Heart_Rate,Blood_Pressure,Muscle_Recovery_Status,POMS_Score,Confidence_Score,Training_Intensity,Sleep_Hours,Dietary_Intake,Recovery_Therapy_Type,Training_Days_per_Week,Recovery_Days_per_Week,Imaging_Report_Severity,Recovery_Success
+1,Sprained Ankle,Severe,51,83,110/70,Severe,25,5,Low,6,2427,Stretching,4,4,Severe,0
+2,Muscle Strain,Severe,14,87,130/90,Mild,22,4,High,7,2649,Stretching,6,3,Moderate,1
+3,Sprained Ankle,Severe,59,95,120/80,Mild,29,8,High,8,2830,Rest and Ice,6,1,Severe,0
+4,Sprained Ankle,Severe,61,96,120/80,Severe,13,4,Low,7,2228,Physiotherapy,5,4,Mild,0
+5,Muscle Strain,Mild,38,80,110/70,Severe,20,6,Medium,6,2765,Stretching,6,2,Severe,0
+6,Muscle Strain,Severe,57,67,120/80,Severe,26,2,Low,8,2988,Rest and Ice,5,3,Severe,0
+7,Sprained Ankle,Moderate,50,68,110/70,Moderate,16,5,Low,8,2209,Stretching,5,2,Mild,0
+8,ACL Tear,Moderate,88,74,120/80,Mild,23,6,Medium,8,2430,Physiotherapy,4,1,Mild,0
+9,Sprained Ankle,Severe,76,99,120/80,Severe,20,5,Low,5,2293,Stretching,5,1,Moderate,0
+10,Sprained Ankle,Severe,24,77,110/70,Moderate,18,2,Low,7,2742,Physiotherapy,6,1,Moderate,1
+11,Sprained Ankle,Moderate,89,79,130/90,Mild,22,7,High,5,2752,Rest and Ice,6,1,Moderate,0
+12,Sprained Ankle,Moderate,28,65,120/80,Moderate,27,4,Medium,8,2581,Rest and Ice,3,1,Moderate,1
+13,Muscle Strain,Mild,43,71,130/90,Mild,20,8,High,5,2103,Stretching,6,2,Mild,0
+14,Sprained Ankle,Moderate,62,61,120/80,Moderate,24,7,High,5,2203,Physiotherapy,3,1,Severe,0
+15,ACL Tear,Moderate,65,66,120/80,Mild,28,7,Medium,5,2052,Physiotherapy,5,1,Severe,0
+16,Muscle Strain,Severe,9,75,120/80,Mild,10,9,Medium,7,2973,Physiotherapy,6,3,Severe,1
+17,ACL Tear,Moderate,34,62,120/80,Moderate,13,1,Low,8,2939,Stretching,4,1,Moderate,0
+18,ACL Tear,Mild,80,62,130/90,Severe,23,6,High,8,2374,Physiotherapy,4,3,Mild,0
+19,ACL Tear,Moderate,41,86,130/90,Mild,23,6,Medium,7,2841,Physiotherapy,4,3,Mild,0
+20,ACL Tear,Severe,67,99,120/80,Severe,12,6,High,5,2053,Physiotherapy,5,3,Mild,0
+21,Muscle Strain,Severe,60,97,120/80,Moderate,26,6,High,5,2275,Physiotherapy,5,2,Severe,0
+22,Muscle Strain,Moderate,69,92,130/90,Severe,12,7,Medium,6,2334,Stretching,3,2,Moderate,0
+23,ACL Tear,Severe,85,87,110/70,Severe,25,6,Low,6,2030,Stretching,4,4,Mild,0
+24,ACL Tear,Mild,13,60,110/70,Severe,23,1,High,6,2134,Physiotherapy,3,4,Moderate,1
+25,Muscle Strain,Mild,82,67,130/90,Severe,29,3,Medium,7,2057,Physiotherapy,3,3,Mild,0
+26,Muscle Strain,Moderate,55,96,120/80,Severe,22,2,Low,8,2104,Rest and Ice,6,2,Moderate,0
+27,Muscle Strain,Moderate,37,91,120/80,Mild,24,6,High,6,2265,Rest and Ice,6,1,Mild,0
+28,Sprained Ankle,Moderate,64,96,110/70,Mild,23,8,Medium,8,2521,Physiotherapy,4,4,Moderate,0
+29,Sprained Ankle,Severe,67,63,110/70,Mild,28,3,High,8,2495,Physiotherapy,5,2,Mild,0
+30,Sprained Ankle,Mild,30,89,130/90,Moderate,15,8,Medium,8,2252,Rest and Ice,6,1,Mild,1
+31,ACL Tear,Mild,26,65,110/70,Severe,19,8,Medium,7,2294,Rest and Ice,5,1,Moderate,1
+32,Sprained Ankle,Severe,43,78,130/90,Mild,24,5,High,7,2667,Physiotherapy,3,2,Moderate,0
+33,ACL Tear,Mild,10,91,110/70,Moderate,29,8,High,7,2157,Stretching,3,4,Severe,1
+34,ACL Tear,Moderate,26,68,110/70,Mild,15,6,Medium,7,2548,Stretching,3,2,Moderate,1
+35,Sprained Ankle,Moderate,66,71,110/70,Mild,19,5,Low,6,2630,Physiotherapy,3,4,Mild,0
+36,ACL Tear,Moderate,30,70,120/80,Severe,16,9,High,5,2066,Physiotherapy,4,3,Mild,1
+37,Sprained Ankle,Mild,56,75,120/80,Moderate,26,7,Medium,5,2753,Rest and Ice,3,2,Moderate,0
+38,Sprained Ankle,Moderate,55,60,120/80,Severe,27,8,Medium,5,2298,Rest and Ice,6,2,Severe,0
+39,Muscle Strain,Severe,57,80,110/70,Severe,26,1,Low,6,2462,Stretching,3,4,Moderate,0
+40,Sprained Ankle,Severe,42,89,130/90,Mild,18,2,Low,5,2724,Physiotherapy,5,4,Mild,0
+41,Muscle Strain,Mild,72,72,130/90,Severe,19,8,Low,6,2819,Rest and Ice,6,2,Mild,0
+42,Sprained Ankle,Severe,85,93,130/90,Moderate,19,9,High,6,2100,Stretching,5,1,Severe,0
+43,Sprained Ankle,Severe,40,63,130/90,Severe,16,4,Medium,6,2055,Stretching,5,1,Moderate,0
+44,Muscle Strain,Mild,42,87,120/80,Severe,25,9,Medium,5,2331,Stretching,4,1,Mild,0
+45,Muscle Strain,Moderate,12,97,120/80,Severe,27,4,Medium,8,2835,Rest and Ice,4,3,Mild,1
+46,Sprained Ankle,Moderate,45,90,110/70,Mild,15,9,Low,5,2750,Rest and Ice,5,3,Mild,0
+47,ACL Tear,Moderate,48,86,110/70,Moderate,29,7,Medium,5,2392,Physiotherapy,5,4,Moderate,0
+48,Muscle Strain,Mild,64,64,130/90,Mild,10,2,High,7,2742,Physiotherapy,3,3,Moderate,0
+49,ACL Tear,Severe,18,84,120/80,Mild,10,9,Low,6,2873,Stretching,6,1,Severe,1
+50,ACL Tear,Moderate,9,62,130/90,Mild,21,4,Low,8,2380,Stretching,3,2,Mild,1
+51,ACL Tear,Moderate,24,92,110/70,Mild,11,8,Low,7,2091,Rest and Ice,4,3,Mild,1
+52,Muscle Strain,Mild,46,63,110/70,Mild,13,7,Low,8,2790,Rest and Ice,4,3,Severe,0
+53,ACL Tear,Moderate,27,84,130/90,Moderate,26,7,High,8,2446,Physiotherapy,3,1,Mild,1
+54,Muscle Strain,Mild,21,79,110/70,Severe,13,8,Medium,6,2108,Physiotherapy,6,3,Severe,1
+55,ACL Tear,Severe,32,93,130/90,Mild,20,1,High,5,2316,Physiotherapy,5,4,Severe,0
+56,Sprained Ankle,Mild,14,85,120/80,Mild,13,5,Medium,6,2167,Rest and Ice,3,2,Mild,1
+57,Sprained Ankle,Mild,48,64,130/90,Moderate,10,2,High,6,2811,Stretching,4,1,Moderate,0
+58,Muscle Strain,Mild,50,94,120/80,Moderate,16,2,Low,7,2981,Physiotherapy,6,4,Moderate,0
+59,Sprained Ankle,Mild,20,87,120/80,Severe,27,1,Low,6,2919,Physiotherapy,4,1,Moderate,1
+60,Sprained Ankle,Severe,84,88,110/70,Moderate,18,5,High,5,2434,Rest and Ice,6,4,Moderate,0
+61,ACL Tear,Severe,8,68,110/70,Severe,12,2,High,8,2441,Physiotherapy,6,2,Mild,1
+62,Muscle Strain,Moderate,43,97,110/70,Mild,17,4,Medium,6,2217,Stretching,6,2,Severe,0
+63,ACL Tear,Severe,75,65,130/90,Mild,28,3,High,8,2221,Rest and Ice,3,4,Severe,0
+64,ACL Tear,Severe,44,78,130/90,Severe,13,3,High,6,2672,Physiotherapy,3,4,Mild,0
+65,ACL Tear,Moderate,47,70,110/70,Moderate,27,2,Medium,8,2527,Physiotherapy,3,4,Moderate,0
+66,ACL Tear,Severe,68,61,130/90,Severe,29,6,Medium,6,2277,Rest and Ice,6,4,Severe,0
+67,ACL Tear,Mild,66,68,110/70,Moderate,20,2,Medium,7,2568,Rest and Ice,6,4,Mild,0
+68,ACL Tear,Mild,20,80,130/90,Mild,23,8,High,8,2573,Physiotherapy,4,4,Mild,1
+69,ACL Tear,Moderate,8,83,120/80,Moderate,27,8,Medium,6,2874,Stretching,5,2,Moderate,1
+70,Muscle Strain,Moderate,76,93,120/80,Severe,25,5,Low,6,2465,Rest and Ice,3,4,Mild,0
+71,Sprained Ankle,Moderate,23,81,110/70,Severe,12,7,Low,7,2838,Stretching,6,3,Severe,1
+72,ACL Tear,Mild,34,62,130/90,Mild,24,4,Low,7,2753,Physiotherapy,4,2,Severe,0
+73,ACL Tear,Severe,72,71,130/90,Moderate,13,1,High,7,2601,Stretching,4,1,Mild,0
+74,ACL Tear,Mild,41,87,120/80,Moderate,14,2,Low,8,2583,Physiotherapy,4,2,Severe,0
+75,ACL Tear,Moderate,11,89,120/80,Moderate,26,4,High,8,2837,Physiotherapy,3,1,Mild,1
+76,ACL Tear,Severe,71,85,110/70,Mild,16,1,High,7,2029,Physiotherapy,3,1,Severe,0
+77,ACL Tear,Severe,46,80,120/80,Moderate,25,8,Low,5,2358,Physiotherapy,5,3,Moderate,0
+78,Sprained Ankle,Mild,82,87,110/70,Severe,23,9,Medium,5,2918,Stretching,4,4,Severe,0
+79,Sprained Ankle,Moderate,62,85,120/80,Moderate,25,4,High,6,2287,Physiotherapy,3,4,Moderate,0
+80,ACL Tear,Mild,42,92,120/80,Mild,16,3,Low,5,2085,Physiotherapy,4,2,Moderate,0
+81,Sprained Ankle,Severe,51,80,130/90,Moderate,18,2,High,6,2233,Stretching,6,4,Mild,0
+82,Muscle Strain,Mild,29,94,120/80,Moderate,13,5,Medium,8,2746,Rest and Ice,4,3,Moderate,1
+83,ACL Tear,Mild,53,93,120/80,Severe,20,3,Medium,8,2312,Stretching,5,2,Severe,0
+84,Muscle Strain,Moderate,37,77,110/70,Moderate,11,7,Low,5,2364,Stretching,3,2,Severe,0
+85,Muscle Strain,Moderate,17,70,120/80,Severe,21,6,High,8,2776,Stretching,6,2,Moderate,1
+86,ACL Tear,Severe,16,82,110/70,Severe,21,1,High,7,2798,Physiotherapy,3,4,Mild,1
+87,Sprained Ankle,Mild,73,81,120/80,Mild,13,8,High,7,2838,Physiotherapy,6,4,Moderate,0
+88,Muscle Strain,Mild,20,76,120/80,Severe,27,2,High,5,2904,Physiotherapy,4,4,Severe,1
+89,ACL Tear,Mild,86,64,110/70,Severe,16,5,Low,5,2268,Rest and Ice,4,2,Severe,0
+90,Muscle Strain,Severe,80,70,130/90,Mild,10,9,Medium,6,2697,Physiotherapy,5,2,Moderate,0
+91,Muscle Strain,Severe,16,89,110/70,Severe,22,8,Low,8,2130,Rest and Ice,5,1,Moderate,1
+92,Muscle Strain,Moderate,82,74,110/70,Mild,15,2,High,6,2802,Physiotherapy,6,1,Moderate,0
+93,Muscle Strain,Moderate,7,86,110/70,Moderate,15,9,High,6,2992,Stretching,5,4,Severe,1
+94,Sprained Ankle,Moderate,11,94,130/90,Mild,21,5,Medium,7,2788,Physiotherapy,5,2,Severe,1
+95,Muscle Strain,Mild,26,92,120/80,Severe,17,6,High,7,2831,Rest and Ice,5,4,Severe,1
+96,Muscle Strain,Mild,14,79,110/70,Mild,28,3,Low,7,2350,Rest and Ice,5,4,Mild,1
+97,Muscle Strain,Moderate,49,75,110/70,Severe,14,3,Low,7,2179,Physiotherapy,4,1,Severe,0
+98,Sprained Ankle,Mild,82,93,130/90,Moderate,27,8,Medium,6,2801,Stretching,5,3,Severe,0
+99,Muscle Strain,Moderate,7,61,110/70,Mild,14,2,Low,7,2479,Physiotherapy,4,4,Mild,1
+100,Muscle Strain,Severe,63,94,120/80,Moderate,19,2,Low,8,2888,Physiotherapy,4,3,Mild,0
+101,Sprained Ankle,Moderate,70,99,130/90,Severe,10,5,Low,7,2162,Physiotherapy,3,3,Mild,0
+102,Sprained Ankle,Severe,34,87,120/80,Severe,19,6,Low,7,2782,Stretching,4,2,Mild,0
+103,Sprained Ankle,Mild,43,98,120/80,Moderate,14,2,High,7,2887,Rest and Ice,4,2,Mild,0
+104,Muscle Strain,Moderate,53,65,130/90,Mild,21,5,Low,5,2095,Stretching,5,4,Mild,0
+105,Sprained Ankle,Mild,82,68,110/70,Mild,16,7,Medium,8,2773,Rest and Ice,4,1,Moderate,0
+106,Sprained Ankle,Severe,43,79,120/80,Severe,18,8,Medium,8,2509,Rest and Ice,6,1,Moderate,0
+107,Muscle Strain,Severe,55,60,120/80,Moderate,21,7,Low,6,2364,Rest and Ice,5,4,Moderate,0
+108,Sprained Ankle,Severe,50,67,120/80,Moderate,10,8,Medium,6,2980,Stretching,5,4,Moderate,0
+109,Muscle Strain,Mild,62,82,120/80,Mild,20,9,Low,7,2352,Physiotherapy,5,1,Severe,0
+110,ACL Tear,Mild,34,62,130/90,Mild,24,5,Medium,5,2799,Physiotherapy,3,3,Mild,0
+111,Sprained Ankle,Mild,85,63,130/90,Mild,11,5,Medium,6,2435,Physiotherapy,5,4,Severe,0
+112,ACL Tear,Mild,12,84,120/80,Moderate,29,4,Low,6,2082,Physiotherapy,4,3,Mild,1
+113,Muscle Strain,Severe,67,97,110/70,Mild,16,9,Low,7,2224,Physiotherapy,6,4,Mild,0
+114,Sprained Ankle,Severe,26,74,120/80,Mild,21,5,High,7,2411,Stretching,5,4,Severe,1
+115,Muscle Strain,Moderate,84,80,110/70,Severe,27,2,Low,6,2734,Stretching,5,3,Moderate,0
+116,ACL Tear,Moderate,8,94,120/80,Mild,12,8,Low,6,2980,Stretching,6,3,Severe,1
+117,Muscle Strain,Mild,79,73,110/70,Mild,16,7,High,8,2117,Stretching,5,1,Severe,0
+118,Sprained Ankle,Severe,43,95,120/80,Moderate,20,8,Low,5,2481,Stretching,3,4,Mild,0
+119,Sprained Ankle,Severe,26,71,110/70,Moderate,27,3,Low,8,2191,Stretching,4,2,Mild,1
+120,ACL Tear,Severe,32,76,120/80,Severe,21,4,High,6,2590,Stretching,6,2,Mild,0
+121,Muscle Strain,Moderate,35,98,120/80,Mild,15,5,Low,8,2589,Physiotherapy,6,4,Moderate,0
+122,Sprained Ankle,Moderate,7,68,110/70,Severe,14,6,Low,8,2658,Rest and Ice,3,4,Severe,1
+123,ACL Tear,Severe,41,94,130/90,Moderate,10,1,High,6,2106,Stretching,4,4,Severe,0
+124,Sprained Ankle,Severe,76,72,110/70,Severe,21,4,High,7,2381,Rest and Ice,3,3,Moderate,0
+125,Sprained Ankle,Severe,65,74,130/90,Moderate,20,5,Medium,6,2782,Stretching,4,2,Severe,0
+126,Muscle Strain,Moderate,75,77,120/80,Severe,13,7,Low,7,2389,Stretching,3,2,Severe,0
+127,Sprained Ankle,Severe,39,92,110/70,Severe,27,5,Medium,6,2243,Physiotherapy,5,2,Mild,0
+128,Muscle Strain,Severe,57,65,110/70,Mild,13,1,Medium,6,2584,Rest and Ice,3,4,Moderate,0
+129,Sprained Ankle,Mild,84,86,110/70,Severe,26,7,High,6,2868,Physiotherapy,6,3,Mild,0
+130,ACL Tear,Mild,18,82,130/90,Mild,11,8,Low,5,2467,Physiotherapy,6,4,Moderate,1
+131,Sprained Ankle,Moderate,26,86,130/90,Mild,11,7,Low,7,2865,Rest and Ice,6,1,Mild,1
+132,Muscle Strain,Severe,59,93,120/80,Mild,21,4,High,5,2933,Physiotherapy,3,1,Severe,0
+133,Muscle Strain,Severe,49,97,130/90,Mild,15,8,Medium,6,2537,Stretching,6,2,Moderate,0
+134,ACL Tear,Mild,56,73,130/90,Severe,19,5,High,8,2209,Stretching,6,4,Moderate,0
+135,Sprained Ankle,Moderate,35,95,120/80,Moderate,25,9,Low,5,2603,Stretching,5,1,Mild,0
+136,Sprained Ankle,Mild,63,67,110/70,Moderate,23,5,High,7,2636,Stretching,5,1,Moderate,0
+137,ACL Tear,Mild,45,94,110/70,Moderate,16,1,Low,6,2946,Stretching,4,4,Severe,0
+138,Sprained Ankle,Mild,62,78,120/80,Severe,28,9,Medium,5,2072,Physiotherapy,4,3,Severe,0
+139,Sprained Ankle,Mild,49,89,110/70,Mild,26,5,Low,8,2991,Physiotherapy,4,4,Severe,0
+140,Muscle Strain,Severe,56,73,130/90,Moderate,18,6,Medium,5,2634,Stretching,3,4,Mild,0
+141,Sprained Ankle,Severe,29,79,120/80,Severe,22,4,Medium,7,2308,Stretching,4,3,Moderate,1
+142,Sprained Ankle,Mild,50,84,120/80,Mild,14,6,Low,5,2695,Physiotherapy,3,2,Mild,0
+143,ACL Tear,Moderate,44,99,120/80,Moderate,14,8,Low,8,2698,Rest and Ice,3,2,Severe,0
+144,ACL Tear,Moderate,29,83,110/70,Mild,19,3,Medium,8,2709,Physiotherapy,4,2,Moderate,1
+145,Muscle Strain,Moderate,51,73,120/80,Moderate,19,5,High,7,2589,Physiotherapy,4,3,Severe,0
+146,Sprained Ankle,Moderate,58,85,120/80,Moderate,16,2,Low,8,2859,Physiotherapy,3,1,Moderate,0
+147,Sprained Ankle,Mild,86,97,120/80,Moderate,24,2,Medium,6,2185,Physiotherapy,5,3,Moderate,0
+148,Sprained Ankle,Severe,56,82,110/70,Mild,16,7,Medium,8,2855,Physiotherapy,6,4,Mild,0
+149,Muscle Strain,Moderate,14,81,130/90,Severe,24,6,High,6,2252,Rest and Ice,6,3,Moderate,1
+150,Muscle Strain,Mild,7,78,120/80,Mild,12,4,Low,5,2012,Stretching,6,1,Severe,1
+151,ACL Tear,Moderate,14,62,130/90,Moderate,28,5,Medium,6,2298,Stretching,5,1,Moderate,1
+152,Muscle Strain,Moderate,35,78,110/70,Mild,19,1,High,6,2075,Rest and Ice,3,4,Severe,0
+153,Sprained Ankle,Mild,11,68,110/70,Severe,24,7,Medium,5,2050,Stretching,4,2,Mild,1
+154,Sprained Ankle,Severe,53,87,110/70,Mild,12,8,Low,8,2786,Stretching,3,1,Severe,0
+155,Muscle Strain,Severe,40,79,110/70,Severe,15,9,High,6,2148,Stretching,3,1,Moderate,0
+156,Sprained Ankle,Mild,71,66,130/90,Severe,21,8,Medium,8,2730,Rest and Ice,4,1,Severe,0
+157,Sprained Ankle,Severe,61,73,120/80,Mild,24,5,High,5,2121,Rest and Ice,5,4,Severe,0
+158,Muscle Strain,Mild,49,68,110/70,Moderate,15,3,Low,7,2210,Stretching,6,1,Moderate,0
+159,Muscle Strain,Mild,80,78,110/70,Severe,22,9,High,8,2279,Stretching,6,2,Severe,0
+160,Sprained Ankle,Mild,36,73,130/90,Mild,28,6,Low,8,2537,Stretching,3,4,Moderate,0
+161,Sprained Ankle,Severe,88,97,130/90,Severe,12,5,Medium,7,2684,Physiotherapy,5,2,Mild,0
+162,Sprained Ankle,Mild,23,95,110/70,Moderate,17,3,Low,7,2155,Physiotherapy,6,1,Severe,1
+163,ACL Tear,Moderate,32,99,120/80,Mild,17,6,Medium,5,2237,Physiotherapy,5,1,Mild,0
+164,ACL Tear,Severe,14,76,120/80,Mild,29,3,Medium,8,2375,Rest and Ice,4,2,Severe,1
+165,ACL Tear,Severe,53,89,110/70,Mild,24,6,Low,8,2081,Stretching,3,4,Severe,0
+166,Muscle Strain,Severe,82,68,130/90,Moderate,13,4,Medium,5,2491,Rest and Ice,3,4,Mild,0
+167,ACL Tear,Severe,78,92,110/70,Severe,28,2,High,8,2355,Rest and Ice,5,2,Severe,0
+168,Muscle Strain,Moderate,52,84,110/70,Mild,12,8,Medium,6,2924,Rest and Ice,6,1,Severe,0
+169,Muscle Strain,Severe,74,73,130/90,Severe,22,4,Low,6,2272,Stretching,5,3,Mild,0
+170,ACL Tear,Severe,39,70,110/70,Severe,17,9,High,6,2579,Physiotherapy,4,2,Severe,0
+171,ACL Tear,Mild,7,94,110/70,Moderate,25,7,High,8,2043,Stretching,6,2,Moderate,1
+172,ACL Tear,Severe,25,73,110/70,Mild,22,2,Medium,6,2572,Stretching,6,2,Severe,1
+173,Sprained Ankle,Moderate,37,89,130/90,Severe,12,4,Medium,6,2122,Rest and Ice,5,1,Severe,0
+174,ACL Tear,Moderate,86,63,120/80,Mild,25,5,Low,5,2348,Rest and Ice,4,4,Severe,0
+175,Sprained Ankle,Moderate,20,63,120/80,Mild,18,3,High,5,2707,Rest and Ice,6,1,Mild,1
+176,Muscle Strain,Moderate,59,87,130/90,Moderate,23,9,Low,7,2329,Physiotherapy,3,2,Moderate,0
+177,Sprained Ankle,Severe,54,67,120/80,Mild,22,5,Medium,7,2408,Physiotherapy,4,1,Moderate,0
+178,ACL Tear,Severe,75,61,110/70,Mild,16,2,High,7,2990,Physiotherapy,6,1,Severe,0
+179,Muscle Strain,Moderate,68,81,120/80,Severe,24,3,Low,7,2322,Stretching,5,2,Mild,0
+180,Muscle Strain,Moderate,72,75,110/70,Moderate,16,9,Low,5,2110,Rest and Ice,6,1,Mild,0
+181,Muscle Strain,Severe,70,88,120/80,Mild,15,7,Low,5,2769,Stretching,3,3,Moderate,0
+182,Sprained Ankle,Moderate,76,89,130/90,Severe,11,2,Low,5,2088,Physiotherapy,4,1,Mild,0
+183,ACL Tear,Mild,69,71,120/80,Moderate,18,9,Low,6,2432,Rest and Ice,6,1,Severe,0
+184,Muscle Strain,Moderate,79,94,120/80,Moderate,26,4,High,6,2709,Physiotherapy,3,4,Severe,0
+185,Muscle Strain,Moderate,39,70,120/80,Severe,14,9,Low,7,2793,Rest and Ice,6,4,Mild,0
+186,Muscle Strain,Mild,47,80,130/90,Severe,21,2,High,6,2711,Rest and Ice,6,2,Severe,0
+187,Sprained Ankle,Mild,54,80,120/80,Severe,10,4,Low,8,2098,Stretching,4,2,Moderate,0
+188,Sprained Ankle,Severe,19,64,130/90,Severe,19,5,Medium,5,2538,Stretching,5,4,Severe,1
+189,ACL Tear,Severe,79,79,110/70,Severe,20,2,Medium,7,2600,Physiotherapy,5,3,Mild,0
+190,Sprained Ankle,Mild,83,96,120/80,Mild,25,1,Low,7,2145,Stretching,3,1,Moderate,0
+191,Muscle Strain,Mild,37,62,130/90,Mild,23,7,Medium,8,2693,Stretching,3,3,Severe,0
+192,ACL Tear,Severe,81,92,130/90,Moderate,17,1,High,6,2256,Stretching,3,3,Moderate,0
+193,Muscle Strain,Moderate,74,68,120/80,Mild,26,8,Low,7,2188,Rest and Ice,4,4,Mild,0
+194,Muscle Strain,Mild,10,68,110/70,Mild,27,3,High,6,2239,Stretching,5,2,Severe,1
+195,Sprained Ankle,Severe,25,63,130/90,Mild,21,6,Low,6,2870,Physiotherapy,3,1,Severe,1
+196,ACL Tear,Moderate,76,94,120/80,Severe,26,7,Medium,8,2898,Rest and Ice,3,2,Moderate,0
+197,Sprained Ankle,Mild,88,76,110/70,Moderate,23,1,High,7,2502,Rest and Ice,6,3,Severe,0
+198,Sprained Ankle,Moderate,19,93,130/90,Moderate,25,6,Medium,6,2707,Stretching,6,3,Severe,1
+199,ACL Tear,Severe,29,83,130/90,Moderate,23,7,Medium,6,2808,Rest and Ice,3,2,Severe,1
+200,Muscle Strain,Mild,89,91,110/70,Moderate,18,6,Low,8,2676,Physiotherapy,6,2,Severe,0
+201,Muscle Strain,Moderate,81,60,110/70,Mild,13,4,High,8,2818,Physiotherapy,6,4,Mild,0
+202,ACL Tear,Mild,7,67,120/80,Mild,20,1,Medium,6,2270,Rest and Ice,6,2,Severe,1
+203,Muscle Strain,Moderate,60,82,120/80,Severe,15,9,Low,8,2519,Stretching,4,2,Moderate,0
+204,ACL Tear,Severe,77,99,130/90,Moderate,24,4,Low,6,2549,Stretching,3,4,Mild,0
+205,ACL Tear,Severe,21,71,110/70,Mild,14,7,Low,7,2113,Rest and Ice,3,2,Moderate,1
+206,Sprained Ankle,Mild,71,71,110/70,Mild,20,7,Medium,5,2338,Physiotherapy,6,3,Moderate,0
+207,ACL Tear,Moderate,82,74,110/70,Severe,27,2,Low,8,2567,Rest and Ice,4,2,Moderate,0
+208,Sprained Ankle,Mild,77,78,130/90,Severe,22,1,High,5,2942,Stretching,6,1,Mild,0
+209,Muscle Strain,Mild,21,85,110/70,Severe,20,8,High,6,2985,Stretching,4,3,Mild,1
+210,Muscle Strain,Moderate,27,88,110/70,Mild,23,8,Medium,6,2358,Rest and Ice,3,4,Mild,1
+211,Muscle Strain,Moderate,25,81,130/90,Mild,27,7,High,6,2649,Physiotherapy,6,3,Severe,1
+212,Muscle Strain,Moderate,66,99,120/80,Severe,28,8,Low,5,2613,Rest and Ice,3,4,Moderate,0
+213,Sprained Ankle,Severe,39,80,120/80,Moderate,24,3,Medium,6,2333,Physiotherapy,4,1,Mild,0
+214,Muscle Strain,Mild,55,97,130/90,Severe,18,2,Low,8,2688,Physiotherapy,5,1,Moderate,0
+215,ACL Tear,Mild,41,79,110/70,Severe,17,7,Medium,7,2168,Rest and Ice,4,3,Mild,0
+216,ACL Tear,Severe,50,88,130/90,Severe,29,8,Medium,7,2338,Rest and Ice,5,2,Mild,0
+217,ACL Tear,Moderate,17,63,120/80,Severe,10,1,Low,8,2797,Physiotherapy,3,3,Mild,1
+218,Sprained Ankle,Severe,78,66,120/80,Mild,13,9,High,7,2260,Physiotherapy,3,3,Moderate,0
+219,Muscle Strain,Severe,84,87,130/90,Moderate,23,4,High,5,2886,Physiotherapy,6,1,Severe,0
+220,Muscle Strain,Severe,80,87,130/90,Severe,11,4,Medium,6,2734,Physiotherapy,5,4,Mild,0
+221,Muscle Strain,Mild,72,63,120/80,Moderate,25,3,Low,6,2198,Stretching,4,3,Mild,0
+222,Sprained Ankle,Severe,52,81,130/90,Moderate,12,6,Low,6,2210,Rest and Ice,3,2,Mild,0
+223,ACL Tear,Mild,15,71,120/80,Moderate,17,1,Medium,5,2286,Physiotherapy,5,1,Severe,1
+224,ACL Tear,Mild,9,62,130/90,Severe,15,6,High,5,2691,Rest and Ice,4,3,Moderate,1
+225,Muscle Strain,Mild,32,81,130/90,Mild,25,2,Low,5,2761,Physiotherapy,5,3,Moderate,0
+226,ACL Tear,Moderate,78,61,130/90,Severe,25,9,High,8,2742,Rest and Ice,4,2,Moderate,0
+227,ACL Tear,Mild,54,83,120/80,Moderate,16,2,High,5,2471,Rest and Ice,4,3,Moderate,0
+228,Sprained Ankle,Mild,72,93,130/90,Moderate,22,7,Medium,7,2481,Physiotherapy,4,3,Mild,0
+229,Sprained Ankle,Moderate,76,86,120/80,Mild,22,1,Medium,8,2022,Physiotherapy,4,3,Severe,0
+230,Sprained Ankle,Mild,34,60,120/80,Severe,14,7,High,8,2559,Rest and Ice,5,3,Mild,0
+231,Sprained Ankle,Severe,32,67,130/90,Moderate,29,5,Low,8,2108,Rest and Ice,5,2,Severe,0
+232,Muscle Strain,Severe,31,82,130/90,Mild,27,8,Low,5,2295,Rest and Ice,6,3,Moderate,0
+233,Sprained Ankle,Mild,18,97,120/80,Moderate,24,4,Medium,8,2005,Stretching,5,3,Severe,1
+234,ACL Tear,Moderate,11,65,120/80,Mild,27,7,High,5,2549,Physiotherapy,5,3,Mild,1
+235,Muscle Strain,Severe,54,81,110/70,Mild,11,6,Low,5,2680,Stretching,6,1,Mild,0
+236,ACL Tear,Moderate,43,84,120/80,Severe,19,5,Low,8,2867,Stretching,5,2,Moderate,0
+237,ACL Tear,Moderate,85,77,110/70,Moderate,22,4,Medium,6,2794,Physiotherapy,4,1,Mild,0
+238,ACL Tear,Severe,50,76,110/70,Severe,27,7,High,6,2202,Physiotherapy,3,1,Mild,0
+239,Sprained Ankle,Moderate,21,71,110/70,Moderate,24,5,Low,8,2324,Stretching,3,2,Severe,1
+240,Sprained Ankle,Severe,49,65,130/90,Severe,21,5,Medium,6,2824,Physiotherapy,6,1,Mild,0
+241,Muscle Strain,Moderate,54,85,130/90,Moderate,24,1,Low,7,2784,Rest and Ice,5,1,Moderate,0
+242,Muscle Strain,Severe,76,86,120/80,Severe,22,2,Low,7,2243,Rest and Ice,5,1,Moderate,0
+243,Sprained Ankle,Mild,52,67,110/70,Mild,27,5,Low,5,2326,Stretching,6,2,Mild,0
+244,ACL Tear,Severe,49,78,130/90,Moderate,24,3,Medium,6,2986,Stretching,3,3,Moderate,0
+245,Muscle Strain,Severe,27,60,130/90,Moderate,20,2,High,7,2046,Physiotherapy,4,4,Severe,1
+246,Sprained Ankle,Severe,29,88,130/90,Mild,28,4,Medium,8,2760,Physiotherapy,5,4,Severe,1
+247,Sprained Ankle,Severe,86,94,130/90,Severe,12,4,High,6,2590,Stretching,6,2,Mild,0
+248,Sprained Ankle,Moderate,53,99,130/90,Moderate,16,4,Low,7,2621,Stretching,4,4,Mild,0
+249,ACL Tear,Mild,21,73,110/70,Moderate,23,4,High,7,2012,Rest and Ice,6,2,Severe,1
+250,Sprained Ankle,Severe,31,94,110/70,Severe,23,3,Low,8,2906,Rest and Ice,6,2,Moderate,0
+251,Sprained Ankle,Moderate,42,79,110/70,Mild,22,7,Low,5,2379,Physiotherapy,6,4,Mild,0
+252,Sprained Ankle,Mild,81,72,110/70,Severe,21,9,Medium,8,2364,Rest and Ice,3,1,Mild,0
+253,Sprained Ankle,Mild,57,97,120/80,Severe,18,5,Low,5,2601,Physiotherapy,3,3,Moderate,0
+254,Muscle Strain,Mild,21,67,110/70,Severe,10,4,Medium,7,2341,Physiotherapy,6,4,Mild,1
+255,Muscle Strain,Mild,74,79,130/90,Moderate,28,2,High,5,2859,Physiotherapy,5,4,Moderate,0
+256,Sprained Ankle,Severe,27,92,110/70,Mild,20,2,High,7,2791,Rest and Ice,4,4,Moderate,1
+257,ACL Tear,Severe,19,85,120/80,Mild,28,5,Low,7,2220,Stretching,5,4,Moderate,1
+258,Muscle Strain,Moderate,25,98,130/90,Severe,27,7,Medium,6,2072,Stretching,3,2,Moderate,1
+259,Sprained Ankle,Moderate,40,80,110/70,Moderate,21,9,Low,5,2745,Rest and Ice,4,2,Moderate,0
+260,Muscle Strain,Moderate,84,68,110/70,Severe,10,7,Medium,5,2771,Stretching,6,3,Severe,0
+261,Muscle Strain,Mild,74,83,110/70,Moderate,28,5,Medium,5,2624,Physiotherapy,5,3,Moderate,0
+262,ACL Tear,Mild,58,96,130/90,Moderate,29,6,Medium,8,2045,Stretching,5,4,Severe,0
+263,Sprained Ankle,Severe,33,76,130/90,Moderate,26,3,High,6,2503,Rest and Ice,6,4,Moderate,0
+264,Sprained Ankle,Mild,35,83,120/80,Moderate,14,5,Medium,6,2273,Stretching,5,4,Mild,0
+265,ACL Tear,Mild,34,80,130/90,Mild,12,8,High,6,2554,Physiotherapy,3,3,Severe,0
+266,ACL Tear,Mild,41,98,130/90,Moderate,11,1,Medium,8,2207,Physiotherapy,6,4,Mild,0
+267,Sprained Ankle,Moderate,14,98,110/70,Moderate,12,1,High,5,2928,Rest and Ice,5,1,Moderate,1
+268,Sprained Ankle,Moderate,22,72,130/90,Severe,17,7,High,5,2860,Rest and Ice,6,3,Moderate,1
+269,ACL Tear,Severe,42,70,110/70,Severe,25,5,High,5,2614,Rest and Ice,4,1,Mild,0
+270,Muscle Strain,Mild,36,78,110/70,Mild,15,5,Low,6,2123,Physiotherapy,6,4,Moderate,0
+271,Muscle Strain,Mild,24,70,130/90,Severe,22,1,Medium,6,2009,Stretching,5,2,Mild,1
+272,ACL Tear,Severe,8,72,120/80,Moderate,25,9,Low,7,2328,Stretching,3,1,Moderate,1
+273,Muscle Strain,Mild,55,60,120/80,Severe,25,1,Medium,8,2186,Rest and Ice,6,3,Moderate,0
+274,ACL Tear,Mild,83,99,130/90,Mild,12,5,Medium,8,2542,Stretching,6,1,Severe,0
+275,Muscle Strain,Moderate,10,78,120/80,Severe,22,9,Low,6,2667,Stretching,5,3,Mild,1
+276,Muscle Strain,Severe,81,71,110/70,Severe,23,4,High,7,2059,Rest and Ice,3,4,Moderate,0
+277,Sprained Ankle,Severe,13,67,110/70,Mild,17,8,Medium,5,2760,Rest and Ice,3,1,Mild,1
+278,Sprained Ankle,Severe,80,67,130/90,Mild,21,6,High,6,2898,Physiotherapy,4,2,Severe,0
+279,Muscle Strain,Severe,45,71,120/80,Moderate,17,3,Low,8,2885,Physiotherapy,4,1,Mild,0
+280,Muscle Strain,Moderate,19,92,120/80,Severe,18,4,High,8,2950,Physiotherapy,5,2,Severe,1
+281,Sprained Ankle,Moderate,37,85,110/70,Moderate,10,2,Medium,8,2781,Physiotherapy,3,3,Mild,0
+282,Sprained Ankle,Mild,77,98,130/90,Severe,15,1,Medium,5,2441,Stretching,3,4,Mild,0
+283,Sprained Ankle,Mild,69,87,120/80,Severe,28,8,Medium,8,2216,Stretching,4,4,Severe,0
+284,ACL Tear,Mild,62,64,130/90,Moderate,20,1,Low,5,2910,Physiotherapy,4,2,Moderate,0
+285,Muscle Strain,Mild,48,67,120/80,Severe,20,1,Medium,5,2001,Physiotherapy,5,3,Moderate,0
+286,Sprained Ankle,Moderate,67,84,110/70,Severe,22,4,Low,5,2535,Rest and Ice,3,4,Moderate,0
+287,Muscle Strain,Severe,48,86,110/70,Severe,20,6,High,6,2717,Stretching,6,3,Mild,0
+288,ACL Tear,Moderate,62,82,130/90,Mild,27,9,Medium,5,2831,Stretching,4,2,Mild,0
+289,ACL Tear,Mild,42,89,110/70,Moderate,24,1,Medium,7,2710,Physiotherapy,5,2,Moderate,0
+290,Sprained Ankle,Moderate,74,82,120/80,Mild,10,7,Medium,8,2355,Stretching,3,1,Mild,0
+291,ACL Tear,Severe,13,79,110/70,Moderate,16,5,High,6,2625,Rest and Ice,3,4,Mild,1
+292,Muscle Strain,Severe,60,77,130/90,Moderate,22,8,Medium,8,2791,Rest and Ice,4,4,Moderate,0
+293,Sprained Ankle,Moderate,7,77,130/90,Severe,21,7,Low,5,2666,Stretching,5,1,Severe,1
+294,Muscle Strain,Moderate,50,61,130/90,Moderate,27,4,High,6,2164,Physiotherapy,6,2,Mild,0
+295,Muscle Strain,Moderate,51,63,120/80,Mild,28,4,High,7,2997,Stretching,4,2,Mild,0
+296,ACL Tear,Mild,53,89,120/80,Mild,24,6,High,5,2733,Rest and Ice,5,2,Mild,0
+297,ACL Tear,Moderate,19,92,120/80,Mild,17,6,High,8,2090,Physiotherapy,3,2,Mild,1
+298,ACL Tear,Moderate,28,95,120/80,Moderate,28,9,High,7,2166,Stretching,6,3,Severe,1
+299,ACL Tear,Moderate,27,77,120/80,Mild,19,5,Low,5,2958,Physiotherapy,5,4,Moderate,1
+300,ACL Tear,Severe,15,96,110/70,Moderate,16,8,High,7,2206,Physiotherapy,6,4,Mild,1
+301,Sprained Ankle,Severe,32,78,120/80,Mild,27,5,Medium,5,2281,Rest and Ice,5,2,Moderate,0
+302,Muscle Strain,Mild,15,87,120/80,Mild,25,2,High,6,2064,Physiotherapy,5,2,Mild,1
+303,Muscle Strain,Mild,21,99,110/70,Moderate,29,6,High,5,2887,Stretching,5,2,Severe,1
+304,Muscle Strain,Severe,16,79,120/80,Mild,15,9,High,6,2515,Physiotherapy,5,4,Moderate,1
+305,Muscle Strain,Severe,48,92,130/90,Severe,18,3,High,5,2156,Physiotherapy,6,4,Severe,0
+306,ACL Tear,Severe,78,71,120/80,Moderate,22,1,High,5,2760,Stretching,4,2,Mild,0
+307,Muscle Strain,Moderate,30,74,120/80,Moderate,17,1,Low,8,2768,Rest and Ice,6,3,Severe,1
+308,Sprained Ankle,Moderate,86,98,130/90,Moderate,25,3,Low,7,2746,Rest and Ice,5,1,Severe,0
+309,Sprained Ankle,Severe,55,61,130/90,Severe,22,5,High,7,2305,Stretching,6,1,Mild,0
+310,Muscle Strain,Moderate,32,88,130/90,Moderate,22,3,Low,7,2877,Stretching,6,1,Mild,0
+311,Muscle Strain,Moderate,43,69,130/90,Mild,26,9,Medium,5,2981,Rest and Ice,6,4,Moderate,0
+312,Sprained Ankle,Mild,74,61,120/80,Mild,29,8,High,5,2394,Physiotherapy,5,4,Mild,0
+313,Sprained Ankle,Severe,56,70,130/90,Mild,14,3,Medium,5,2073,Stretching,6,1,Moderate,0
+314,ACL Tear,Severe,30,72,130/90,Moderate,26,9,Medium,6,2186,Physiotherapy,3,1,Severe,1
+315,Sprained Ankle,Moderate,25,69,110/70,Mild,18,6,High,6,2573,Stretching,5,3,Severe,1
+316,ACL Tear,Severe,66,73,130/90,Moderate,11,7,Medium,8,2336,Rest and Ice,6,4,Moderate,0
+317,ACL Tear,Mild,45,77,130/90,Mild,27,4,Medium,5,2675,Physiotherapy,3,4,Mild,0
+318,ACL Tear,Mild,80,68,110/70,Severe,18,4,Medium,7,2567,Physiotherapy,6,1,Mild,0
+319,ACL Tear,Mild,24,98,110/70,Severe,15,2,High,7,2622,Stretching,4,3,Severe,1
+320,ACL Tear,Severe,25,87,120/80,Severe,20,5,High,8,2729,Physiotherapy,6,3,Moderate,1
+321,Muscle Strain,Severe,42,62,110/70,Severe,15,8,Medium,7,2239,Stretching,6,1,Severe,0
+322,Sprained Ankle,Severe,80,79,120/80,Moderate,15,7,High,8,2532,Rest and Ice,4,1,Severe,0
+323,ACL Tear,Severe,61,65,110/70,Mild,22,7,High,5,2140,Physiotherapy,5,4,Mild,0
+324,Sprained Ankle,Severe,75,86,110/70,Severe,20,6,Medium,7,2264,Stretching,4,1,Moderate,0
+325,Sprained Ankle,Mild,53,61,120/80,Moderate,23,3,High,5,2138,Physiotherapy,5,2,Severe,0
+326,ACL Tear,Moderate,55,88,110/70,Severe,11,5,Low,6,2458,Stretching,4,3,Mild,0
+327,Muscle Strain,Mild,39,97,120/80,Severe,17,1,High,7,2069,Stretching,6,1,Severe,0
+328,ACL Tear,Severe,27,62,110/70,Moderate,12,7,Low,6,2384,Stretching,6,2,Severe,1
+329,Muscle Strain,Mild,87,75,130/90,Moderate,12,9,Medium,7,2629,Rest and Ice,5,3,Mild,0
+330,Sprained Ankle,Severe,28,89,110/70,Mild,10,1,High,5,2197,Physiotherapy,5,2,Mild,1
+331,Muscle Strain,Severe,54,99,120/80,Mild,28,2,Medium,8,2204,Rest and Ice,3,2,Moderate,0
+332,Muscle Strain,Mild,43,61,110/70,Severe,27,3,Medium,5,2725,Stretching,3,1,Severe,0
+333,Muscle Strain,Severe,21,76,120/80,Severe,26,3,Medium,5,2567,Stretching,6,3,Moderate,1
+334,Sprained Ankle,Moderate,41,71,120/80,Mild,29,8,Medium,5,2798,Rest and Ice,6,2,Mild,0
+335,Sprained Ankle,Severe,77,94,130/90,Mild,22,7,Medium,7,2981,Rest and Ice,3,4,Mild,0
+336,Muscle Strain,Moderate,38,60,130/90,Moderate,12,6,High,8,2804,Physiotherapy,3,3,Severe,0
+337,Muscle Strain,Moderate,17,74,120/80,Mild,10,4,Low,6,2686,Stretching,5,4,Moderate,1
+338,ACL Tear,Severe,16,85,110/70,Mild,13,9,High,5,2858,Rest and Ice,4,1,Moderate,1
+339,Muscle Strain,Mild,79,96,120/80,Severe,22,1,High,7,2881,Stretching,5,4,Severe,0
+340,ACL Tear,Moderate,84,80,120/80,Mild,26,2,High,6,2973,Stretching,3,3,Severe,0
+341,Muscle Strain,Mild,83,90,110/70,Severe,20,4,High,5,2639,Physiotherapy,6,2,Moderate,0
+342,ACL Tear,Moderate,63,84,110/70,Mild,11,3,Low,6,2430,Physiotherapy,3,2,Mild,0
+343,Sprained Ankle,Severe,31,82,110/70,Moderate,25,1,High,5,2889,Physiotherapy,6,3,Mild,0
+344,Muscle Strain,Severe,8,83,110/70,Mild,11,5,Medium,6,2324,Rest and Ice,6,2,Severe,1
+345,Muscle Strain,Moderate,70,97,120/80,Mild,28,7,High,6,2441,Stretching,6,4,Moderate,0
+346,Muscle Strain,Severe,41,87,120/80,Mild,28,2,High,8,2803,Rest and Ice,6,2,Moderate,0
+347,Muscle Strain,Moderate,13,80,130/90,Severe,25,5,Low,8,2287,Rest and Ice,4,2,Moderate,1
+348,ACL Tear,Severe,24,77,120/80,Moderate,28,6,Low,5,2225,Physiotherapy,3,4,Mild,1
+349,Muscle Strain,Mild,73,95,110/70,Mild,18,7,Medium,7,2063,Stretching,5,4,Mild,0
+350,Sprained Ankle,Severe,48,94,130/90,Severe,10,1,High,8,2966,Stretching,6,4,Moderate,0
+351,Sprained Ankle,Mild,45,68,110/70,Moderate,19,7,High,6,2937,Physiotherapy,6,1,Moderate,0
+352,Muscle Strain,Severe,47,97,120/80,Severe,28,4,High,8,2559,Stretching,5,4,Severe,0
+353,Sprained Ankle,Mild,81,89,130/90,Severe,10,8,Medium,8,2713,Physiotherapy,5,4,Severe,0
+354,Muscle Strain,Severe,30,93,110/70,Moderate,11,4,Low,5,2497,Rest and Ice,6,1,Moderate,1
+355,Muscle Strain,Mild,66,91,130/90,Mild,25,6,Medium,8,2848,Rest and Ice,5,2,Moderate,0
+356,Sprained Ankle,Moderate,52,62,130/90,Severe,21,9,High,8,2925,Physiotherapy,5,4,Mild,0
+357,Muscle Strain,Moderate,25,62,120/80,Severe,17,5,Low,6,2916,Rest and Ice,4,3,Moderate,1
+358,Sprained Ankle,Mild,74,87,110/70,Mild,27,4,Low,8,2059,Rest and Ice,5,4,Severe,0
+359,ACL Tear,Severe,48,74,130/90,Mild,11,8,Medium,6,2396,Physiotherapy,3,4,Mild,0
+360,Muscle Strain,Mild,38,82,130/90,Moderate,22,9,Low,8,2256,Rest and Ice,3,1,Severe,0
+361,ACL Tear,Severe,45,99,110/70,Moderate,15,4,Low,8,2576,Stretching,3,3,Severe,0
+362,Sprained Ankle,Moderate,42,70,130/90,Moderate,15,3,High,7,2238,Rest and Ice,6,2,Mild,0
+363,ACL Tear,Severe,42,91,130/90,Mild,18,8,High,8,2800,Physiotherapy,3,2,Severe,0
+364,ACL Tear,Moderate,9,95,130/90,Severe,25,5,Low,6,2037,Stretching,4,3,Moderate,1
+365,Sprained Ankle,Severe,79,92,110/70,Severe,20,2,Low,6,2024,Stretching,3,4,Severe,0
+366,ACL Tear,Severe,14,83,110/70,Moderate,16,9,Medium,5,2409,Rest and Ice,6,1,Mild,1
+367,ACL Tear,Severe,76,98,110/70,Mild,19,3,Medium,5,2460,Stretching,4,3,Mild,0
+368,Sprained Ankle,Mild,47,93,110/70,Severe,19,2,Low,7,2570,Physiotherapy,3,3,Mild,0
+369,ACL Tear,Mild,74,87,120/80,Moderate,29,1,High,6,2987,Stretching,4,2,Severe,0
+370,Sprained Ankle,Moderate,19,96,130/90,Severe,27,8,Low,6,2416,Rest and Ice,4,1,Moderate,1
+371,ACL Tear,Moderate,55,66,110/70,Severe,29,3,Low,6,2356,Rest and Ice,6,3,Mild,0
+372,Sprained Ankle,Mild,66,63,130/90,Mild,18,7,High,7,2382,Stretching,6,1,Moderate,0
+373,Sprained Ankle,Moderate,8,96,130/90,Mild,24,1,High,6,2808,Physiotherapy,4,4,Mild,1
+374,ACL Tear,Mild,66,60,120/80,Severe,13,1,Medium,5,2157,Physiotherapy,3,2,Moderate,0
+375,ACL Tear,Severe,11,60,110/70,Moderate,17,9,Medium,7,2568,Rest and Ice,6,4,Moderate,1
+376,ACL Tear,Moderate,50,79,110/70,Mild,18,8,Medium,5,2432,Rest and Ice,4,1,Moderate,0
+377,Muscle Strain,Moderate,33,78,130/90,Severe,22,3,Medium,5,2047,Physiotherapy,5,4,Mild,0
+378,Muscle Strain,Mild,38,88,110/70,Mild,18,6,High,7,2327,Stretching,5,2,Severe,0
+379,Muscle Strain,Moderate,27,69,130/90,Mild,13,3,Low,8,2432,Stretching,6,1,Severe,1
+380,Sprained Ankle,Moderate,14,77,130/90,Mild,26,4,Medium,8,2430,Stretching,3,3,Severe,1
+381,ACL Tear,Severe,78,87,120/80,Severe,25,1,Medium,5,2055,Stretching,5,4,Moderate,0
+382,Sprained Ankle,Moderate,56,94,120/80,Moderate,24,5,High,8,2576,Physiotherapy,5,2,Mild,0
+383,Muscle Strain,Severe,73,90,120/80,Moderate,12,1,High,6,2267,Rest and Ice,5,3,Moderate,0
+384,ACL Tear,Mild,50,86,130/90,Moderate,29,1,Low,7,2068,Rest and Ice,3,2,Mild,0
+385,Sprained Ankle,Moderate,64,70,110/70,Mild,14,7,Low,5,2727,Stretching,3,1,Moderate,0
+386,ACL Tear,Severe,9,97,120/80,Severe,14,6,High,6,2901,Physiotherapy,6,1,Mild,1
+387,Sprained Ankle,Mild,76,64,110/70,Mild,29,2,Medium,8,2600,Physiotherapy,6,4,Mild,0
+388,ACL Tear,Moderate,8,67,120/80,Moderate,24,2,Medium,6,2448,Stretching,5,2,Mild,1
+389,Muscle Strain,Mild,50,93,120/80,Moderate,27,7,Medium,8,2792,Stretching,3,2,Moderate,0
+390,Muscle Strain,Moderate,8,71,130/90,Severe,24,1,Low,5,2256,Stretching,4,2,Severe,1
+391,ACL Tear,Mild,87,97,120/80,Mild,11,2,Medium,6,2671,Rest and Ice,5,1,Moderate,0
+392,Sprained Ankle,Mild,41,60,120/80,Moderate,22,8,Medium,7,2489,Stretching,6,4,Moderate,0
+393,Muscle Strain,Severe,36,90,130/90,Severe,13,6,High,5,2745,Rest and Ice,3,2,Mild,0
+394,Muscle Strain,Mild,14,63,110/70,Mild,19,2,Medium,6,2642,Physiotherapy,6,2,Mild,1
+395,Muscle Strain,Moderate,28,64,120/80,Mild,22,7,High,6,2048,Physiotherapy,6,3,Severe,1
+396,ACL Tear,Moderate,50,89,130/90,Moderate,19,4,Medium,8,2658,Rest and Ice,3,2,Severe,0
+397,ACL Tear,Severe,64,83,120/80,Moderate,18,2,Low,5,2315,Rest and Ice,5,4,Mild,0
+398,Sprained Ankle,Moderate,42,62,130/90,Mild,17,6,Medium,5,2412,Rest and Ice,3,3,Severe,0
+399,Sprained Ankle,Moderate,75,70,110/70,Mild,12,9,Medium,5,2433,Rest and Ice,5,3,Severe,0
+400,Sprained Ankle,Moderate,83,63,110/70,Moderate,25,9,High,5,2001,Stretching,6,3,Mild,0
+401,ACL Tear,Mild,37,85,130/90,Mild,23,8,High,8,2840,Physiotherapy,3,1,Moderate,0
+402,ACL Tear,Mild,53,86,130/90,Moderate,18,3,High,7,2951,Stretching,4,3,Severe,0
+403,Sprained Ankle,Moderate,61,86,130/90,Mild,20,3,Medium,5,2144,Rest and Ice,5,2,Mild,0
+404,Sprained Ankle,Severe,86,65,110/70,Moderate,12,2,Medium,8,2955,Stretching,4,1,Severe,0
+405,ACL Tear,Mild,68,74,120/80,Severe,14,5,Low,7,2365,Stretching,5,1,Severe,0
+406,Sprained Ankle,Severe,36,89,110/70,Moderate,19,4,Medium,7,2419,Physiotherapy,3,1,Mild,0
+407,Muscle Strain,Moderate,61,96,130/90,Moderate,22,7,Low,8,2572,Stretching,4,1,Severe,0
+408,ACL Tear,Moderate,22,96,130/90,Severe,13,4,High,5,2784,Physiotherapy,3,1,Severe,1
+409,Sprained Ankle,Mild,18,96,110/70,Mild,22,9,High,7,2560,Rest and Ice,5,1,Severe,1
+410,ACL Tear,Moderate,23,94,130/90,Severe,21,2,High,5,2843,Stretching,5,1,Moderate,1
+411,Muscle Strain,Mild,22,82,110/70,Moderate,14,6,Low,5,2443,Rest and Ice,5,3,Moderate,1
+412,ACL Tear,Moderate,18,65,130/90,Mild,19,7,Medium,6,2915,Physiotherapy,5,4,Severe,1
+413,ACL Tear,Moderate,14,63,120/80,Severe,18,4,High,5,2433,Rest and Ice,6,2,Mild,1
+414,ACL Tear,Mild,9,77,120/80,Mild,29,6,Medium,6,2642,Rest and Ice,5,2,Severe,1
+415,ACL Tear,Mild,22,68,130/90,Mild,16,7,Medium,7,2554,Physiotherapy,4,3,Severe,1
+416,Muscle Strain,Mild,36,88,110/70,Severe,11,4,High,8,2056,Rest and Ice,5,3,Moderate,0
+417,ACL Tear,Moderate,29,72,120/80,Mild,16,8,Low,6,2561,Rest and Ice,3,1,Moderate,1
+418,ACL Tear,Moderate,11,76,110/70,Severe,17,9,Medium,8,2963,Rest and Ice,6,4,Moderate,1
+419,Sprained Ankle,Severe,71,91,130/90,Moderate,16,1,High,7,2976,Stretching,4,1,Severe,0
+420,ACL Tear,Mild,36,81,110/70,Mild,23,7,Medium,5,2177,Rest and Ice,6,3,Severe,0
+421,Sprained Ankle,Moderate,27,63,120/80,Moderate,28,9,Medium,7,2292,Physiotherapy,6,1,Mild,1
+422,Muscle Strain,Moderate,76,64,110/70,Moderate,14,5,Medium,8,2045,Stretching,6,2,Severe,0
+423,Muscle Strain,Mild,28,96,110/70,Mild,27,2,Medium,7,2169,Stretching,3,2,Severe,1
+424,Muscle Strain,Severe,88,72,130/90,Severe,29,6,Medium,5,2270,Physiotherapy,6,1,Moderate,0
+425,Muscle Strain,Mild,78,93,130/90,Mild,21,7,Low,7,2416,Rest and Ice,6,4,Moderate,0
+426,Sprained Ankle,Severe,38,81,130/90,Moderate,26,2,Low,5,2847,Stretching,5,1,Moderate,0
+427,ACL Tear,Moderate,39,82,120/80,Moderate,22,2,High,6,2138,Stretching,3,1,Moderate,0
+428,Muscle Strain,Severe,22,62,120/80,Severe,11,1,Low,8,2246,Stretching,4,4,Moderate,1
+429,ACL Tear,Moderate,82,93,130/90,Mild,22,4,Low,5,2147,Rest and Ice,4,4,Mild,0
+430,Sprained Ankle,Mild,44,91,130/90,Moderate,16,7,Low,5,2229,Stretching,4,4,Mild,0
+431,Sprained Ankle,Mild,20,80,120/80,Moderate,19,9,Medium,7,2791,Physiotherapy,3,2,Mild,1
+432,Sprained Ankle,Mild,42,80,120/80,Moderate,15,3,Medium,6,2636,Rest and Ice,4,1,Moderate,0
+433,Muscle Strain,Severe,29,70,120/80,Severe,12,7,High,5,2703,Physiotherapy,3,3,Moderate,1
+434,ACL Tear,Moderate,72,98,120/80,Moderate,12,7,High,6,2373,Physiotherapy,5,4,Moderate,0
+435,ACL Tear,Mild,8,63,130/90,Moderate,27,7,High,6,2079,Stretching,5,4,Mild,1
+436,ACL Tear,Mild,79,60,120/80,Mild,20,2,Medium,7,2605,Stretching,3,1,Moderate,0
+437,Sprained Ankle,Moderate,71,87,130/90,Mild,29,6,Low,5,2737,Stretching,4,3,Mild,0
+438,Muscle Strain,Mild,81,83,110/70,Moderate,14,2,Low,7,2064,Physiotherapy,3,1,Moderate,0
+439,Sprained Ankle,Moderate,73,94,110/70,Moderate,28,6,Medium,8,2087,Rest and Ice,3,1,Severe,0
+440,Sprained Ankle,Moderate,58,72,120/80,Mild,28,3,High,8,2087,Stretching,6,4,Mild,0
+441,ACL Tear,Moderate,68,93,110/70,Severe,24,2,High,5,2712,Stretching,3,4,Severe,0
+442,Sprained Ankle,Moderate,29,70,110/70,Severe,25,6,High,6,2725,Physiotherapy,6,2,Mild,1
+443,ACL Tear,Moderate,32,95,110/70,Severe,18,2,Medium,5,2203,Rest and Ice,5,3,Moderate,0
+444,Muscle Strain,Severe,74,76,120/80,Severe,13,5,High,5,2912,Physiotherapy,6,3,Moderate,0
+445,ACL Tear,Mild,88,94,120/80,Severe,24,2,High,8,2381,Stretching,3,4,Severe,0
+446,Muscle Strain,Severe,61,77,110/70,Severe,21,3,Medium,8,2600,Physiotherapy,5,4,Moderate,0
+447,ACL Tear,Mild,12,99,130/90,Severe,12,3,Low,6,2475,Stretching,6,4,Mild,1
+448,Sprained Ankle,Severe,41,81,110/70,Severe,23,6,Medium,6,2572,Rest and Ice,3,3,Moderate,0
+449,Sprained Ankle,Moderate,28,83,120/80,Mild,26,6,Medium,5,2782,Physiotherapy,5,2,Moderate,1
+450,Muscle Strain,Mild,49,78,120/80,Severe,28,3,Medium,7,2605,Stretching,6,3,Mild,0
+451,Muscle Strain,Mild,21,96,120/80,Severe,15,3,Medium,5,2818,Stretching,3,4,Severe,1
+452,Muscle Strain,Severe,66,98,110/70,Severe,13,1,Low,6,2538,Stretching,3,4,Severe,0
+453,ACL Tear,Severe,18,80,130/90,Moderate,16,7,High,7,2213,Stretching,4,2,Moderate,1
+454,ACL Tear,Mild,55,67,120/80,Mild,28,8,Medium,8,2073,Physiotherapy,4,1,Mild,0
+455,Muscle Strain,Severe,48,87,120/80,Mild,26,2,Low,6,2060,Stretching,6,1,Severe,0
+456,Sprained Ankle,Severe,44,64,110/70,Mild,25,4,High,6,2697,Physiotherapy,6,3,Severe,0
+457,ACL Tear,Severe,88,76,130/90,Severe,24,7,High,7,2542,Stretching,6,1,Moderate,0
+458,ACL Tear,Moderate,51,96,110/70,Severe,17,8,High,6,2218,Physiotherapy,3,1,Mild,0
+459,ACL Tear,Moderate,41,95,120/80,Moderate,28,1,Medium,6,2011,Physiotherapy,6,3,Severe,0
+460,Muscle Strain,Severe,36,78,130/90,Mild,17,4,Medium,6,2813,Stretching,3,4,Moderate,0
+461,Muscle Strain,Severe,36,86,130/90,Severe,27,6,High,6,2414,Stretching,6,1,Moderate,0
+462,Muscle Strain,Moderate,84,93,120/80,Mild,25,3,High,6,2031,Stretching,3,4,Moderate,0
+463,Muscle Strain,Moderate,12,70,130/90,Moderate,29,5,High,6,2159,Stretching,3,3,Moderate,1
+464,Muscle Strain,Mild,73,71,130/90,Moderate,28,9,High,6,2236,Rest and Ice,4,4,Severe,0
+465,Sprained Ankle,Mild,86,80,110/70,Moderate,19,3,High,6,2738,Stretching,5,4,Mild,0
+466,Sprained Ankle,Moderate,13,70,120/80,Mild,26,5,High,8,2180,Stretching,3,3,Moderate,1
+467,Muscle Strain,Severe,58,98,120/80,Severe,22,8,Low,6,2828,Stretching,6,4,Moderate,0
+468,ACL Tear,Severe,20,87,120/80,Severe,22,6,High,8,2557,Physiotherapy,4,1,Severe,1
+469,Muscle Strain,Severe,79,64,120/80,Moderate,16,4,Medium,8,2340,Stretching,6,1,Moderate,0
+470,Sprained Ankle,Severe,21,76,120/80,Severe,19,8,Medium,5,2457,Physiotherapy,6,1,Moderate,1
+471,Sprained Ankle,Mild,27,79,130/90,Moderate,11,3,Medium,5,2079,Physiotherapy,3,1,Mild,1
+472,ACL Tear,Moderate,41,71,110/70,Mild,13,3,High,8,2646,Physiotherapy,3,4,Moderate,0
+473,Sprained Ankle,Severe,72,65,120/80,Moderate,15,4,Medium,8,2771,Physiotherapy,5,1,Severe,0
+474,Muscle Strain,Mild,8,76,110/70,Mild,27,9,Low,6,2986,Rest and Ice,3,4,Mild,1
+475,ACL Tear,Severe,41,78,110/70,Moderate,15,5,High,5,2819,Stretching,3,2,Severe,0
+476,Muscle Strain,Moderate,88,85,130/90,Severe,26,8,Medium,7,2758,Physiotherapy,5,4,Mild,0
+477,Muscle Strain,Mild,84,91,120/80,Severe,23,6,Low,5,2472,Stretching,6,1,Mild,0
+478,ACL Tear,Moderate,26,65,130/90,Moderate,20,3,Low,8,2670,Physiotherapy,5,2,Moderate,1
+479,Muscle Strain,Moderate,88,95,120/80,Severe,28,8,Medium,8,2714,Rest and Ice,5,3,Moderate,0
+480,Sprained Ankle,Mild,16,97,130/90,Severe,11,9,Low,6,2111,Physiotherapy,5,4,Moderate,1
+481,Muscle Strain,Mild,31,70,110/70,Severe,12,8,Medium,6,2979,Stretching,4,1,Severe,0
+482,ACL Tear,Mild,72,92,120/80,Mild,20,4,Low,5,2291,Stretching,6,1,Moderate,0
+483,ACL Tear,Mild,31,83,110/70,Severe,15,6,High,6,2949,Rest and Ice,4,1,Moderate,0
+484,ACL Tear,Mild,60,82,110/70,Mild,23,1,High,7,2821,Stretching,4,3,Mild,0
+485,Muscle Strain,Mild,39,74,130/90,Moderate,28,4,High,7,2630,Stretching,3,2,Moderate,0
+486,ACL Tear,Mild,42,86,120/80,Severe,25,8,High,6,2382,Physiotherapy,5,2,Moderate,0
+487,ACL Tear,Severe,20,70,110/70,Severe,16,1,High,7,2016,Stretching,5,1,Moderate,1
+488,Muscle Strain,Moderate,71,76,130/90,Severe,17,3,Medium,7,2492,Physiotherapy,4,4,Moderate,0
+489,Sprained Ankle,Mild,86,73,120/80,Moderate,28,1,High,5,2330,Rest and Ice,3,1,Mild,0
+490,Muscle Strain,Severe,60,86,120/80,Mild,29,9,High,7,2925,Stretching,3,1,Moderate,0
+491,ACL Tear,Severe,58,77,110/70,Mild,25,2,High,8,2738,Physiotherapy,3,4,Mild,0
+492,ACL Tear,Severe,9,87,120/80,Severe,16,9,High,8,2872,Stretching,6,1,Severe,1
+493,Muscle Strain,Moderate,47,63,110/70,Moderate,18,4,Low,5,2485,Physiotherapy,4,3,Moderate,0
+494,Sprained Ankle,Mild,12,66,120/80,Moderate,22,2,High,6,2405,Rest and Ice,6,1,Moderate,1
+495,ACL Tear,Severe,31,94,130/90,Moderate,10,4,High,5,2116,Physiotherapy,3,3,Moderate,0
+496,ACL Tear,Moderate,19,68,110/70,Moderate,17,6,Medium,6,2554,Stretching,3,1,Mild,1
+497,ACL Tear,Moderate,14,67,110/70,Moderate,13,7,Low,6,2879,Physiotherapy,3,2,Moderate,1
+498,Muscle Strain,Moderate,27,76,120/80,Mild,12,3,Medium,6,2114,Stretching,5,4,Moderate,1
+499,ACL Tear,Severe,74,76,120/80,Mild,12,3,High,6,2794,Rest and Ice,4,2,Severe,0
+500,Sprained Ankle,Mild,31,92,110/70,Mild,22,8,Medium,6,2548,Physiotherapy,5,1,Mild,0
+501,ACL Tear,Severe,85,91,120/80,Severe,17,5,Medium,5,2813,Stretching,6,1,Mild,0
+502,ACL Tear,Severe,74,67,130/90,Moderate,16,4,High,6,2624,Stretching,5,3,Severe,0
+503,Sprained Ankle,Mild,51,78,120/80,Severe,10,7,Low,7,2546,Stretching,4,1,Mild,0
+504,ACL Tear,Mild,66,97,130/90,Moderate,25,7,Low,7,2643,Physiotherapy,5,1,Moderate,0
+505,Muscle Strain,Mild,18,62,130/90,Mild,15,9,Medium,6,2335,Physiotherapy,3,1,Moderate,1
+506,Muscle Strain,Moderate,38,64,130/90,Severe,16,9,High,7,2335,Physiotherapy,6,2,Severe,0
+507,Muscle Strain,Mild,19,72,130/90,Mild,21,5,Medium,8,2980,Rest and Ice,6,3,Mild,1
+508,Sprained Ankle,Severe,37,90,130/90,Moderate,18,8,Medium,5,2921,Stretching,3,2,Mild,0
+509,ACL Tear,Mild,84,75,120/80,Moderate,20,1,Medium,5,2888,Stretching,3,3,Mild,0
+510,Muscle Strain,Severe,26,91,130/90,Moderate,19,9,High,6,2739,Rest and Ice,3,2,Severe,1
+511,Sprained Ankle,Moderate,24,81,120/80,Mild,10,8,High,6,2146,Rest and Ice,4,1,Moderate,1
+512,ACL Tear,Severe,66,88,130/90,Moderate,27,6,Low,8,2121,Physiotherapy,5,2,Severe,0
+513,Sprained Ankle,Severe,69,81,110/70,Mild,13,3,High,6,2080,Physiotherapy,6,2,Moderate,0
+514,Muscle Strain,Mild,12,62,130/90,Severe,14,3,Medium,7,2684,Physiotherapy,5,3,Severe,1
+515,Muscle Strain,Mild,38,69,110/70,Moderate,18,8,Medium,8,2665,Physiotherapy,3,3,Moderate,0
+516,Muscle Strain,Severe,49,80,130/90,Moderate,26,5,Low,7,2661,Physiotherapy,3,2,Mild,0
+517,Sprained Ankle,Mild,8,75,130/90,Moderate,12,7,High,5,2374,Physiotherapy,5,3,Mild,1
+518,Sprained Ankle,Moderate,66,71,130/90,Severe,25,5,Medium,7,2569,Rest and Ice,6,3,Mild,0
+519,Muscle Strain,Moderate,29,61,110/70,Moderate,14,8,Low,5,2062,Rest and Ice,4,3,Severe,1
+520,Sprained Ankle,Mild,89,83,110/70,Mild,25,4,Low,7,2503,Rest and Ice,5,4,Severe,0
+521,Muscle Strain,Moderate,37,94,130/90,Mild,12,2,Medium,5,2667,Stretching,3,3,Severe,0
+522,Muscle Strain,Mild,11,89,120/80,Moderate,29,3,Medium,6,2448,Stretching,3,4,Mild,1
+523,ACL Tear,Severe,89,89,130/90,Moderate,24,8,High,7,2427,Physiotherapy,4,4,Moderate,0
+524,Sprained Ankle,Severe,40,94,110/70,Severe,12,7,Low,5,2867,Rest and Ice,5,3,Mild,0
+525,Muscle Strain,Moderate,16,78,130/90,Severe,29,2,Medium,7,2426,Stretching,4,2,Mild,1
+526,Muscle Strain,Mild,8,67,110/70,Severe,23,6,Low,8,2420,Stretching,4,3,Moderate,1
+527,Sprained Ankle,Mild,17,85,110/70,Moderate,25,9,High,6,2321,Rest and Ice,6,1,Moderate,1
+528,ACL Tear,Moderate,56,99,110/70,Severe,26,4,Medium,5,2912,Stretching,6,2,Moderate,0
+529,ACL Tear,Severe,37,66,130/90,Severe,29,9,High,8,2679,Stretching,3,4,Moderate,0
+530,Muscle Strain,Moderate,62,89,110/70,Mild,27,2,Low,7,2165,Rest and Ice,5,4,Mild,0
+531,Sprained Ankle,Severe,85,66,110/70,Severe,27,2,High,8,2596,Stretching,6,2,Severe,0
+532,ACL Tear,Mild,79,62,130/90,Mild,23,9,High,7,2956,Rest and Ice,3,2,Mild,0
+533,Sprained Ankle,Severe,89,60,110/70,Mild,27,7,Low,6,2648,Stretching,5,3,Moderate,0
+534,Sprained Ankle,Moderate,15,95,130/90,Severe,24,7,High,8,2460,Rest and Ice,3,4,Severe,1
+535,Muscle Strain,Mild,27,84,110/70,Mild,24,1,Low,6,2458,Stretching,6,1,Severe,1
+536,ACL Tear,Moderate,79,96,120/80,Moderate,15,6,Medium,5,2188,Stretching,3,3,Mild,0
+537,Muscle Strain,Moderate,34,60,120/80,Moderate,24,7,Low,7,2463,Rest and Ice,5,2,Mild,0
+538,ACL Tear,Severe,68,74,110/70,Severe,27,6,Low,7,2911,Stretching,5,4,Mild,0
+539,ACL Tear,Moderate,13,96,120/80,Moderate,13,6,Medium,6,2378,Rest and Ice,3,2,Severe,1
+540,ACL Tear,Severe,86,72,130/90,Mild,17,2,Low,6,2001,Rest and Ice,5,2,Severe,0
+541,ACL Tear,Mild,22,99,120/80,Moderate,24,6,Medium,5,2617,Stretching,3,2,Severe,1
+542,ACL Tear,Severe,10,67,110/70,Severe,12,4,Medium,8,2363,Physiotherapy,5,3,Moderate,1
+543,Sprained Ankle,Mild,10,64,110/70,Severe,24,9,Low,7,2071,Stretching,3,1,Moderate,1
+544,Muscle Strain,Severe,46,68,130/90,Mild,22,1,High,7,2426,Physiotherapy,3,1,Mild,0
+545,Sprained Ankle,Moderate,23,60,110/70,Severe,18,8,High,5,2637,Physiotherapy,3,4,Severe,1
+546,ACL Tear,Severe,58,95,130/90,Moderate,11,5,Medium,5,2169,Stretching,4,2,Mild,0
+547,Muscle Strain,Severe,58,94,120/80,Severe,17,1,High,6,2204,Physiotherapy,5,1,Severe,0
+548,ACL Tear,Mild,42,61,120/80,Mild,29,4,High,6,2824,Rest and Ice,6,2,Mild,0
+549,Muscle Strain,Moderate,44,99,130/90,Severe,26,1,Low,8,2336,Rest and Ice,3,4,Moderate,0
+550,Sprained Ankle,Severe,56,82,130/90,Moderate,22,6,Medium,5,2998,Physiotherapy,4,2,Severe,0
+551,Muscle Strain,Moderate,69,68,110/70,Mild,10,2,Medium,8,2471,Rest and Ice,6,1,Moderate,0
+552,Muscle Strain,Severe,69,93,120/80,Moderate,11,5,Low,5,2194,Stretching,3,2,Severe,0
+553,Muscle Strain,Severe,68,73,130/90,Mild,24,7,High,7,2669,Rest and Ice,6,1,Mild,0
+554,Muscle Strain,Moderate,13,63,120/80,Severe,21,2,Medium,5,2652,Physiotherapy,4,4,Severe,1
+555,Muscle Strain,Severe,33,89,130/90,Mild,23,6,High,5,2274,Stretching,6,2,Moderate,0
+556,ACL Tear,Moderate,20,90,120/80,Mild,11,6,Medium,7,2006,Rest and Ice,3,1,Severe,1
+557,Muscle Strain,Severe,77,97,110/70,Severe,27,5,Medium,5,2904,Stretching,6,4,Mild,0
+558,Muscle Strain,Mild,11,70,120/80,Moderate,16,5,Medium,8,2978,Physiotherapy,6,2,Severe,1
+559,Sprained Ankle,Moderate,61,94,120/80,Severe,15,3,Medium,6,2565,Rest and Ice,3,4,Moderate,0
+560,Muscle Strain,Severe,8,67,120/80,Mild,23,2,High,6,2615,Stretching,4,1,Mild,1
+561,Sprained Ankle,Severe,68,62,120/80,Severe,17,7,High,8,2853,Stretching,4,2,Moderate,0
+562,ACL Tear,Mild,27,73,120/80,Mild,11,1,High,7,2849,Rest and Ice,6,2,Severe,1
+563,Muscle Strain,Moderate,85,72,110/70,Severe,26,6,High,5,2572,Stretching,5,2,Moderate,0
+564,Sprained Ankle,Severe,27,91,130/90,Severe,14,6,Low,8,2598,Stretching,6,4,Severe,1
+565,Sprained Ankle,Mild,16,93,120/80,Moderate,23,3,Medium,6,2769,Physiotherapy,5,4,Mild,1
+566,ACL Tear,Severe,64,78,110/70,Mild,29,2,Medium,6,2177,Physiotherapy,6,1,Moderate,0
+567,Muscle Strain,Moderate,45,97,120/80,Moderate,12,2,Medium,8,2241,Physiotherapy,4,3,Moderate,0
+568,Muscle Strain,Severe,11,75,120/80,Mild,14,9,Low,6,2202,Physiotherapy,6,2,Severe,1
+569,Sprained Ankle,Severe,71,61,130/90,Severe,25,5,High,8,2542,Physiotherapy,6,2,Moderate,0
+570,Muscle Strain,Severe,19,99,120/80,Mild,27,7,Medium,6,2800,Physiotherapy,5,1,Moderate,1
+571,Sprained Ankle,Severe,59,76,110/70,Moderate,26,5,High,8,2461,Rest and Ice,4,2,Mild,0
+572,Muscle Strain,Mild,88,93,110/70,Moderate,20,7,High,5,2079,Physiotherapy,5,4,Severe,0
+573,Sprained Ankle,Mild,51,75,130/90,Moderate,26,4,Low,5,2522,Stretching,6,4,Severe,0
+574,Muscle Strain,Moderate,38,97,120/80,Mild,25,8,Low,5,2416,Rest and Ice,3,2,Mild,0
+575,ACL Tear,Mild,42,61,110/70,Moderate,11,7,High,5,2765,Stretching,6,2,Mild,0
+576,Muscle Strain,Mild,87,61,120/80,Moderate,13,5,Medium,6,2383,Physiotherapy,6,4,Severe,0
+577,Muscle Strain,Moderate,66,85,120/80,Moderate,16,6,Medium,7,2390,Physiotherapy,5,2,Mild,0
+578,ACL Tear,Mild,17,72,120/80,Severe,11,5,Low,8,2895,Stretching,3,4,Mild,1
+579,Muscle Strain,Mild,69,90,130/90,Severe,15,7,Low,7,2798,Stretching,3,3,Mild,0
+580,ACL Tear,Moderate,27,93,120/80,Mild,26,2,Low,6,2687,Stretching,5,3,Severe,1
+581,Muscle Strain,Moderate,58,98,110/70,Mild,16,5,Low,6,2125,Rest and Ice,4,2,Mild,0
+582,Sprained Ankle,Moderate,61,62,120/80,Moderate,14,3,Low,7,2493,Physiotherapy,3,2,Moderate,0
+583,Sprained Ankle,Severe,32,67,110/70,Severe,14,9,Low,7,2046,Stretching,3,2,Moderate,0
+584,Muscle Strain,Severe,74,82,120/80,Moderate,29,6,Low,6,2717,Physiotherapy,5,4,Severe,0
+585,Muscle Strain,Moderate,40,73,110/70,Moderate,25,3,Medium,6,2475,Stretching,4,3,Mild,0
+586,Muscle Strain,Moderate,58,86,110/70,Severe,28,7,Low,8,2948,Physiotherapy,4,3,Moderate,0
+587,Sprained Ankle,Moderate,88,88,120/80,Severe,18,4,Low,5,2618,Rest and Ice,6,1,Severe,0
+588,Muscle Strain,Severe,58,98,120/80,Severe,14,3,Medium,5,2463,Physiotherapy,6,1,Moderate,0
+589,Sprained Ankle,Severe,35,98,110/70,Mild,17,8,Medium,8,2786,Stretching,5,2,Mild,0
+590,ACL Tear,Mild,44,60,130/90,Mild,18,4,High,7,2848,Physiotherapy,4,4,Severe,0
+591,Sprained Ankle,Mild,48,76,120/80,Moderate,14,1,Low,6,2122,Rest and Ice,5,2,Moderate,0
+592,Sprained Ankle,Moderate,27,89,130/90,Mild,19,6,Low,7,2473,Rest and Ice,6,3,Severe,1
+593,ACL Tear,Severe,48,72,120/80,Severe,11,1,Low,5,2133,Physiotherapy,5,2,Moderate,0
+594,Sprained Ankle,Severe,19,80,120/80,Severe,18,5,Low,5,2618,Stretching,5,2,Moderate,1
+595,Muscle Strain,Severe,70,78,120/80,Mild,20,7,High,7,2816,Rest and Ice,3,3,Mild,0
+596,Muscle Strain,Moderate,23,78,120/80,Moderate,13,6,Medium,5,2840,Rest and Ice,3,3,Mild,1
+597,Sprained Ankle,Mild,15,84,130/90,Moderate,11,2,Medium,6,2561,Physiotherapy,3,3,Moderate,1
+598,Muscle Strain,Moderate,47,81,120/80,Mild,15,4,Low,8,2848,Rest and Ice,6,3,Severe,0
+599,Sprained Ankle,Mild,7,90,110/70,Moderate,23,2,Low,7,2606,Rest and Ice,5,1,Severe,1
+600,Muscle Strain,Mild,8,76,110/70,Moderate,10,1,Low,6,2779,Stretching,3,4,Mild,1
+601,Muscle Strain,Moderate,66,82,130/90,Moderate,27,3,High,6,2022,Stretching,3,4,Moderate,0
+602,Sprained Ankle,Mild,54,91,120/80,Severe,16,3,High,5,2565,Stretching,3,3,Mild,0
+603,Muscle Strain,Mild,35,69,110/70,Severe,10,7,Medium,6,2885,Physiotherapy,6,4,Moderate,0
+604,Sprained Ankle,Severe,16,69,130/90,Mild,10,1,Low,7,2765,Rest and Ice,6,4,Moderate,1
+605,Muscle Strain,Mild,64,95,120/80,Severe,10,9,Low,6,2964,Physiotherapy,5,4,Mild,0
+606,Muscle Strain,Moderate,66,67,110/70,Moderate,13,6,Low,8,2234,Rest and Ice,5,4,Severe,0
+607,ACL Tear,Moderate,27,79,110/70,Severe,13,4,Low,6,2995,Rest and Ice,5,3,Mild,1
+608,ACL Tear,Mild,34,91,130/90,Mild,27,3,High,6,2058,Rest and Ice,3,2,Moderate,0
+609,Sprained Ankle,Severe,81,73,120/80,Severe,20,3,Medium,8,2163,Stretching,4,2,Mild,0
+610,ACL Tear,Severe,40,87,120/80,Moderate,10,2,Medium,6,2770,Physiotherapy,6,2,Severe,0
+611,Sprained Ankle,Mild,14,83,110/70,Moderate,19,2,High,6,2825,Physiotherapy,3,1,Severe,1
+612,ACL Tear,Mild,65,74,110/70,Mild,18,5,Low,5,2215,Rest and Ice,3,4,Moderate,0
+613,Muscle Strain,Moderate,78,81,110/70,Severe,13,9,Medium,7,2182,Physiotherapy,5,3,Mild,0
+614,Sprained Ankle,Mild,55,89,120/80,Severe,15,2,Medium,5,2568,Stretching,5,3,Severe,0
+615,Sprained Ankle,Severe,85,63,130/90,Severe,25,2,High,7,2656,Physiotherapy,3,1,Mild,0
+616,Muscle Strain,Mild,23,72,130/90,Moderate,11,6,Low,8,2934,Rest and Ice,6,3,Severe,1
+617,Sprained Ankle,Moderate,66,82,120/80,Mild,27,2,Medium,8,2089,Stretching,6,2,Moderate,0
+618,Sprained Ankle,Moderate,51,67,130/90,Severe,19,4,Low,8,2963,Stretching,3,1,Moderate,0
+619,ACL Tear,Moderate,89,77,110/70,Moderate,26,6,Medium,7,2310,Rest and Ice,4,3,Mild,0
+620,Sprained Ankle,Moderate,75,71,130/90,Moderate,22,5,High,7,2556,Physiotherapy,4,1,Moderate,0
+621,Muscle Strain,Moderate,38,90,130/90,Moderate,27,1,Low,7,2971,Rest and Ice,6,1,Severe,0
+622,ACL Tear,Mild,50,73,130/90,Severe,22,6,High,8,2256,Physiotherapy,5,3,Moderate,0
+623,ACL Tear,Mild,71,93,110/70,Severe,26,1,Medium,7,2532,Physiotherapy,4,2,Severe,0
+624,Muscle Strain,Mild,14,77,120/80,Severe,14,3,High,6,2978,Stretching,4,3,Severe,1
+625,Muscle Strain,Mild,83,93,110/70,Severe,20,5,High,5,2532,Rest and Ice,5,4,Moderate,0
+626,ACL Tear,Moderate,78,70,120/80,Severe,16,5,High,8,2051,Stretching,4,4,Severe,0
+627,Sprained Ankle,Severe,49,71,120/80,Severe,19,6,Medium,5,2337,Rest and Ice,3,3,Severe,0
+628,ACL Tear,Mild,7,74,120/80,Severe,26,8,Low,6,2170,Rest and Ice,4,2,Mild,1
+629,Muscle Strain,Severe,57,90,130/90,Severe,24,5,High,7,2947,Stretching,5,4,Mild,0
+630,ACL Tear,Mild,30,88,130/90,Severe,27,1,Low,5,2066,Rest and Ice,3,4,Mild,1
+631,Muscle Strain,Mild,30,85,120/80,Moderate,28,5,Medium,6,2624,Rest and Ice,4,3,Moderate,1
+632,ACL Tear,Severe,23,77,120/80,Severe,11,3,Low,6,2299,Physiotherapy,6,3,Mild,1
+633,Sprained Ankle,Moderate,11,91,130/90,Mild,13,4,High,5,2671,Rest and Ice,3,3,Severe,1
+634,ACL Tear,Mild,26,81,110/70,Moderate,12,8,High,8,2777,Rest and Ice,3,1,Moderate,1
+635,ACL Tear,Mild,27,97,120/80,Severe,16,7,High,5,2831,Stretching,6,1,Moderate,1
+636,Muscle Strain,Mild,64,76,110/70,Mild,27,5,High,8,2231,Stretching,6,1,Moderate,0
+637,Muscle Strain,Severe,37,82,130/90,Severe,19,2,High,7,2974,Rest and Ice,4,3,Moderate,0
+638,Muscle Strain,Moderate,17,83,120/80,Mild,16,6,High,8,2836,Physiotherapy,4,2,Severe,1
+639,ACL Tear,Severe,58,67,110/70,Mild,17,6,Medium,7,2067,Physiotherapy,5,4,Severe,0
+640,Sprained Ankle,Severe,21,65,110/70,Mild,15,6,Medium,5,2505,Stretching,5,1,Mild,1
+641,Muscle Strain,Moderate,89,64,110/70,Mild,10,9,Medium,7,2027,Rest and Ice,3,2,Moderate,0
+642,Muscle Strain,Severe,13,88,130/90,Moderate,13,8,Low,6,2948,Rest and Ice,6,3,Mild,1
+643,ACL Tear,Moderate,34,87,130/90,Moderate,23,8,Low,7,2627,Physiotherapy,6,1,Severe,0
+644,Muscle Strain,Mild,57,70,110/70,Mild,26,1,Medium,8,2050,Physiotherapy,5,3,Moderate,0
+645,Sprained Ankle,Moderate,64,60,110/70,Severe,29,5,Low,8,2692,Physiotherapy,3,2,Severe,0
+646,Sprained Ankle,Mild,11,78,130/90,Mild,27,7,Low,8,2259,Stretching,3,1,Mild,1
+647,Muscle Strain,Severe,11,68,110/70,Moderate,20,6,High,7,2590,Rest and Ice,5,1,Severe,1
+648,Muscle Strain,Severe,14,86,110/70,Severe,23,5,High,8,2784,Stretching,5,1,Moderate,1
+649,ACL Tear,Mild,70,93,130/90,Moderate,18,8,Low,8,2619,Rest and Ice,5,1,Moderate,0
+650,Sprained Ankle,Severe,16,63,110/70,Moderate,24,3,Low,6,2962,Stretching,4,2,Mild,1
+651,Sprained Ankle,Moderate,44,95,110/70,Severe,21,6,Medium,7,2585,Rest and Ice,3,1,Moderate,0
+652,Muscle Strain,Mild,87,77,110/70,Mild,19,5,Low,6,2686,Physiotherapy,3,4,Severe,0
+653,ACL Tear,Severe,14,74,130/90,Mild,28,8,High,8,2183,Physiotherapy,3,4,Severe,1
+654,Sprained Ankle,Mild,31,72,110/70,Mild,28,4,Low,8,2022,Physiotherapy,5,3,Severe,0
+655,Sprained Ankle,Moderate,79,78,130/90,Mild,15,8,Medium,8,2785,Stretching,5,1,Severe,0
+656,ACL Tear,Moderate,72,65,130/90,Severe,29,2,High,7,2128,Physiotherapy,5,4,Mild,0
+657,ACL Tear,Severe,85,71,120/80,Severe,15,9,High,5,2290,Rest and Ice,5,4,Severe,0
+658,Sprained Ankle,Moderate,56,96,120/80,Severe,17,9,High,8,2831,Stretching,6,4,Mild,0
+659,Sprained Ankle,Mild,73,76,110/70,Moderate,10,6,High,8,2500,Rest and Ice,5,2,Severe,0
+660,ACL Tear,Moderate,55,82,130/90,Severe,26,4,Low,8,2185,Stretching,4,1,Mild,0
+661,Sprained Ankle,Mild,42,85,120/80,Mild,26,4,Medium,8,2478,Rest and Ice,6,2,Severe,0
+662,Muscle Strain,Mild,74,88,110/70,Moderate,24,6,Low,7,2570,Rest and Ice,6,2,Severe,0
+663,Muscle Strain,Moderate,84,92,120/80,Mild,16,5,Low,5,2491,Stretching,5,4,Mild,0
+664,ACL Tear,Severe,47,86,120/80,Mild,28,6,High,5,2512,Stretching,3,4,Moderate,0
+665,ACL Tear,Moderate,68,84,130/90,Severe,12,7,Medium,5,2642,Physiotherapy,5,3,Moderate,0
+666,ACL Tear,Mild,16,69,130/90,Severe,20,7,High,8,2066,Physiotherapy,3,1,Moderate,1
+667,Muscle Strain,Mild,27,82,120/80,Mild,29,9,Low,8,2804,Rest and Ice,5,1,Mild,1
+668,Sprained Ankle,Moderate,42,80,120/80,Mild,28,8,Low,5,2466,Rest and Ice,5,4,Moderate,0
+669,Muscle Strain,Severe,18,80,130/90,Moderate,18,6,High,5,2284,Rest and Ice,3,4,Moderate,1
+670,Sprained Ankle,Severe,8,72,110/70,Severe,19,6,Low,8,2600,Stretching,3,1,Mild,1
+671,Muscle Strain,Mild,19,96,130/90,Moderate,11,5,Low,8,2416,Stretching,3,3,Moderate,1
+672,Sprained Ankle,Mild,59,92,120/80,Moderate,10,1,High,6,2099,Physiotherapy,3,4,Moderate,0
+673,Muscle Strain,Severe,38,83,110/70,Moderate,25,9,Low,6,2188,Rest and Ice,4,3,Moderate,0
+674,ACL Tear,Moderate,22,70,120/80,Mild,27,9,Medium,6,2988,Physiotherapy,3,2,Mild,1
+675,Muscle Strain,Mild,38,76,110/70,Moderate,26,9,High,5,2889,Stretching,5,4,Mild,0
+676,Sprained Ankle,Mild,38,63,120/80,Moderate,15,8,Medium,7,2857,Stretching,5,2,Moderate,0
+677,Muscle Strain,Severe,17,84,110/70,Mild,23,3,Low,8,2387,Stretching,4,4,Moderate,1
+678,Muscle Strain,Moderate,16,89,110/70,Severe,24,1,Low,6,2240,Physiotherapy,3,2,Mild,1
+679,Muscle Strain,Severe,21,68,120/80,Severe,23,8,High,7,2781,Stretching,5,4,Moderate,1
+680,ACL Tear,Moderate,23,80,110/70,Moderate,12,7,Low,8,2730,Rest and Ice,4,3,Mild,1
+681,Muscle Strain,Moderate,46,79,130/90,Mild,28,5,High,7,2416,Physiotherapy,5,3,Moderate,0
+682,ACL Tear,Moderate,24,78,120/80,Severe,21,7,High,5,2917,Stretching,4,3,Mild,1
+683,ACL Tear,Mild,61,78,130/90,Moderate,11,4,High,5,2175,Physiotherapy,4,2,Severe,0
+684,Muscle Strain,Severe,79,71,120/80,Moderate,12,9,High,5,2386,Physiotherapy,6,3,Severe,0
+685,Muscle Strain,Severe,31,96,110/70,Mild,27,2,High,6,2470,Stretching,6,2,Mild,0
+686,Muscle Strain,Moderate,65,76,110/70,Moderate,10,9,Medium,8,2852,Stretching,3,4,Severe,0
+687,Sprained Ankle,Mild,84,96,110/70,Severe,29,9,High,5,2232,Physiotherapy,6,2,Moderate,0
+688,Muscle Strain,Mild,28,98,120/80,Mild,15,5,Medium,6,2662,Physiotherapy,4,4,Mild,1
+689,ACL Tear,Severe,36,87,130/90,Severe,14,1,Low,6,2451,Stretching,5,1,Mild,0
+690,Muscle Strain,Mild,50,94,130/90,Severe,10,7,High,6,2276,Rest and Ice,5,1,Moderate,0
+691,Sprained Ankle,Mild,38,77,120/80,Severe,28,4,Low,6,2228,Physiotherapy,3,1,Moderate,0
+692,Muscle Strain,Moderate,57,73,120/80,Moderate,10,9,High,5,2170,Physiotherapy,6,2,Mild,0
+693,Sprained Ankle,Mild,52,94,130/90,Moderate,25,6,Medium,6,2734,Rest and Ice,3,1,Moderate,0
+694,Sprained Ankle,Moderate,27,66,130/90,Severe,21,3,Medium,5,2212,Stretching,4,1,Mild,1
+695,Muscle Strain,Severe,38,72,130/90,Severe,17,6,Medium,5,2281,Stretching,6,1,Moderate,0
+696,ACL Tear,Mild,45,77,130/90,Mild,25,6,Low,6,2040,Rest and Ice,3,4,Mild,0
+697,Sprained Ankle,Severe,18,96,120/80,Mild,10,5,High,5,2121,Stretching,5,3,Moderate,1
+698,Muscle Strain,Severe,53,72,120/80,Moderate,13,2,Low,8,2226,Stretching,5,2,Moderate,0
+699,Muscle Strain,Mild,24,95,110/70,Moderate,19,2,Medium,8,2293,Physiotherapy,3,1,Severe,1
+700,ACL Tear,Mild,27,90,130/90,Mild,20,7,Low,7,2599,Physiotherapy,3,4,Severe,1
+701,Sprained Ankle,Severe,19,61,110/70,Severe,26,2,Medium,8,2266,Physiotherapy,3,3,Severe,1
+702,Sprained Ankle,Mild,27,75,120/80,Moderate,16,6,Medium,5,2540,Rest and Ice,4,3,Moderate,1
+703,Muscle Strain,Moderate,14,68,120/80,Severe,21,5,Medium,5,2758,Stretching,4,3,Mild,1
+704,Muscle Strain,Moderate,52,68,110/70,Mild,16,4,High,8,2827,Stretching,5,4,Moderate,0
+705,ACL Tear,Mild,13,97,130/90,Moderate,21,7,High,6,2450,Physiotherapy,4,1,Severe,1
+706,ACL Tear,Severe,29,70,130/90,Moderate,24,8,Medium,6,2448,Physiotherapy,4,3,Moderate,1
+707,Sprained Ankle,Mild,81,81,130/90,Mild,11,4,Low,5,2755,Rest and Ice,6,4,Severe,0
+708,Sprained Ankle,Mild,28,92,130/90,Moderate,23,1,Low,6,2060,Stretching,4,4,Severe,1
+709,Muscle Strain,Severe,28,95,110/70,Mild,22,1,High,7,2501,Rest and Ice,6,2,Mild,1
+710,Sprained Ankle,Severe,35,82,110/70,Moderate,13,1,Medium,7,2146,Stretching,4,4,Mild,0
+711,ACL Tear,Moderate,19,93,120/80,Mild,23,1,Low,8,2685,Rest and Ice,5,3,Severe,1
+712,ACL Tear,Severe,88,68,130/90,Moderate,23,5,Medium,8,2944,Physiotherapy,3,3,Severe,0
+713,Muscle Strain,Moderate,8,83,130/90,Severe,25,4,Low,6,2789,Rest and Ice,5,4,Moderate,1
+714,ACL Tear,Severe,35,67,130/90,Severe,16,9,High,5,2333,Rest and Ice,4,3,Severe,0
+715,ACL Tear,Mild,85,66,110/70,Severe,28,3,Medium,8,2880,Physiotherapy,3,4,Moderate,0
+716,ACL Tear,Moderate,58,95,130/90,Moderate,11,7,Medium,7,2952,Stretching,3,3,Severe,0
+717,ACL Tear,Moderate,33,77,110/70,Moderate,19,8,Low,8,2890,Stretching,3,2,Mild,0
+718,Muscle Strain,Moderate,56,62,130/90,Severe,27,6,Low,8,2141,Physiotherapy,6,1,Mild,0
+719,Muscle Strain,Mild,85,87,130/90,Severe,26,1,Low,7,2043,Rest and Ice,5,2,Severe,0
+720,Sprained Ankle,Mild,29,65,120/80,Mild,14,8,Medium,5,2143,Rest and Ice,6,2,Moderate,1
+721,ACL Tear,Mild,50,80,130/90,Mild,21,3,High,8,2864,Rest and Ice,3,1,Moderate,0
+722,Sprained Ankle,Mild,83,87,130/90,Mild,15,8,High,8,2332,Stretching,5,3,Moderate,0
+723,Muscle Strain,Mild,28,99,120/80,Severe,18,4,Low,8,2997,Rest and Ice,5,1,Severe,1
+724,Muscle Strain,Moderate,49,60,110/70,Severe,29,8,High,6,2496,Stretching,4,4,Severe,0
+725,Muscle Strain,Mild,43,95,110/70,Severe,10,1,Low,8,2395,Rest and Ice,6,1,Mild,0
+726,Muscle Strain,Moderate,67,80,130/90,Mild,24,3,High,7,2054,Physiotherapy,6,2,Mild,0
+727,Muscle Strain,Mild,62,94,110/70,Moderate,15,6,Medium,5,2306,Physiotherapy,4,1,Severe,0
+728,Muscle Strain,Severe,9,72,130/90,Severe,28,9,Low,5,2869,Stretching,6,3,Mild,1
+729,Muscle Strain,Moderate,69,69,120/80,Moderate,27,2,High,7,2422,Stretching,3,2,Moderate,0
+730,ACL Tear,Severe,25,69,120/80,Moderate,15,1,Medium,6,2416,Physiotherapy,3,4,Moderate,1
+731,Sprained Ankle,Moderate,29,72,130/90,Moderate,22,3,High,7,2672,Physiotherapy,6,3,Severe,1
+732,Muscle Strain,Severe,35,96,120/80,Mild,10,4,Medium,5,2796,Rest and Ice,4,2,Moderate,0
+733,ACL Tear,Mild,36,97,120/80,Moderate,22,5,Medium,7,2324,Physiotherapy,5,4,Severe,0
+734,ACL Tear,Mild,45,83,130/90,Severe,16,3,High,6,2709,Stretching,6,3,Moderate,0
+735,Sprained Ankle,Mild,31,61,130/90,Mild,24,2,High,5,2670,Physiotherapy,5,4,Severe,0
+736,Muscle Strain,Moderate,14,81,120/80,Severe,21,2,Medium,6,2079,Stretching,4,1,Moderate,1
+737,Sprained Ankle,Severe,64,76,110/70,Severe,10,7,Medium,7,2030,Stretching,5,1,Moderate,0
+738,Muscle Strain,Mild,22,95,110/70,Mild,24,9,Medium,8,2984,Rest and Ice,4,4,Mild,1
+739,ACL Tear,Severe,78,73,130/90,Severe,13,2,Low,7,2111,Rest and Ice,4,1,Mild,0
+740,ACL Tear,Severe,7,69,130/90,Severe,22,7,Medium,6,2557,Rest and Ice,3,4,Mild,1
+741,ACL Tear,Mild,11,94,110/70,Mild,14,7,Low,7,2864,Rest and Ice,3,3,Mild,1
+742,ACL Tear,Mild,9,84,120/80,Severe,11,7,Medium,8,2716,Physiotherapy,4,2,Mild,1
+743,Sprained Ankle,Severe,71,62,110/70,Moderate,10,3,Low,6,2563,Rest and Ice,6,4,Mild,0
+744,Muscle Strain,Mild,10,97,110/70,Severe,25,7,Medium,7,2649,Physiotherapy,3,2,Severe,1
+745,Muscle Strain,Mild,70,76,110/70,Moderate,15,1,Medium,6,2471,Rest and Ice,4,2,Severe,0
+746,Sprained Ankle,Mild,16,71,110/70,Severe,25,1,Medium,6,2073,Rest and Ice,5,4,Mild,1
+747,Muscle Strain,Moderate,27,83,130/90,Mild,23,5,High,5,2552,Stretching,5,1,Severe,1
+748,ACL Tear,Severe,52,88,130/90,Mild,12,2,High,5,2478,Physiotherapy,6,3,Mild,0
+749,Muscle Strain,Severe,33,84,120/80,Severe,24,9,Medium,6,2588,Stretching,5,2,Severe,0
+750,ACL Tear,Moderate,72,95,120/80,Mild,12,7,Low,7,2386,Rest and Ice,5,3,Moderate,0
+751,Sprained Ankle,Severe,47,85,120/80,Severe,11,4,Low,7,2698,Physiotherapy,4,2,Severe,0
+752,Muscle Strain,Mild,19,97,120/80,Mild,10,4,Medium,7,2881,Rest and Ice,5,4,Severe,1
+753,Sprained Ankle,Severe,15,60,110/70,Moderate,18,2,High,8,2563,Stretching,5,1,Severe,1
+754,Muscle Strain,Mild,42,79,130/90,Severe,18,5,Low,6,2929,Physiotherapy,5,3,Moderate,0
+755,ACL Tear,Moderate,64,87,130/90,Moderate,16,4,High,6,2432,Stretching,5,2,Mild,0
+756,Sprained Ankle,Mild,60,75,120/80,Moderate,12,1,Low,8,2411,Rest and Ice,4,4,Severe,0
+757,Muscle Strain,Severe,18,76,120/80,Severe,27,8,Medium,6,2466,Rest and Ice,5,4,Severe,1
+758,ACL Tear,Severe,87,99,110/70,Moderate,20,3,High,6,2598,Rest and Ice,6,2,Moderate,0
+759,Sprained Ankle,Severe,84,87,110/70,Severe,16,6,Low,8,2620,Physiotherapy,3,2,Mild,0
+760,Sprained Ankle,Moderate,20,71,120/80,Moderate,18,4,Medium,5,2991,Stretching,6,2,Severe,1
+761,Muscle Strain,Moderate,40,86,130/90,Severe,10,9,Medium,6,2908,Stretching,3,1,Moderate,0
+762,Muscle Strain,Severe,59,89,130/90,Severe,23,7,Medium,8,2736,Rest and Ice,6,2,Mild,0
+763,Muscle Strain,Mild,26,93,130/90,Mild,29,9,High,7,2993,Stretching,3,2,Mild,1
+764,ACL Tear,Moderate,81,96,120/80,Severe,15,3,High,5,2992,Physiotherapy,3,1,Severe,0
+765,Muscle Strain,Severe,22,65,130/90,Severe,16,1,Medium,7,2247,Rest and Ice,3,4,Severe,1
+766,Sprained Ankle,Severe,76,66,110/70,Moderate,19,5,High,6,2580,Rest and Ice,3,2,Severe,0
+767,Sprained Ankle,Moderate,62,91,110/70,Severe,16,3,Low,5,2119,Rest and Ice,4,3,Severe,0
+768,Muscle Strain,Moderate,89,91,120/80,Mild,11,6,Medium,8,2066,Physiotherapy,6,4,Moderate,0
+769,Muscle Strain,Moderate,64,84,110/70,Moderate,13,8,Medium,6,2572,Rest and Ice,3,3,Moderate,0
+770,Sprained Ankle,Mild,10,92,120/80,Moderate,26,4,High,8,2955,Rest and Ice,6,2,Severe,1
+771,ACL Tear,Mild,10,66,130/90,Mild,10,5,Medium,5,2326,Rest and Ice,5,1,Mild,1
+772,Muscle Strain,Severe,26,71,130/90,Moderate,19,5,Low,7,2919,Rest and Ice,3,1,Severe,1
+773,Muscle Strain,Moderate,16,75,130/90,Moderate,28,4,High,6,2702,Stretching,6,1,Mild,1
+774,Sprained Ankle,Mild,30,75,110/70,Moderate,24,4,High,6,2469,Rest and Ice,4,2,Mild,1
+775,Muscle Strain,Moderate,32,95,120/80,Moderate,19,4,Medium,8,2492,Physiotherapy,6,2,Mild,0
+776,ACL Tear,Severe,43,72,130/90,Mild,28,4,Medium,5,2700,Rest and Ice,3,3,Moderate,0
+777,Sprained Ankle,Mild,60,66,120/80,Mild,21,4,Medium,8,2662,Rest and Ice,5,1,Mild,0
+778,Muscle Strain,Mild,27,95,130/90,Moderate,25,5,High,5,2285,Stretching,6,2,Mild,1
+779,Sprained Ankle,Mild,80,68,110/70,Moderate,18,2,Medium,6,2955,Rest and Ice,5,4,Moderate,0
+780,Muscle Strain,Severe,44,91,110/70,Mild,24,2,Low,5,2913,Stretching,4,2,Mild,0
+781,Muscle Strain,Moderate,52,70,120/80,Mild,26,9,Medium,6,2607,Physiotherapy,6,2,Mild,0
+782,Muscle Strain,Mild,10,67,110/70,Mild,23,2,Medium,5,2311,Stretching,6,4,Severe,1
+783,ACL Tear,Severe,66,92,110/70,Moderate,27,6,High,7,2308,Rest and Ice,4,1,Mild,0
+784,ACL Tear,Moderate,63,82,120/80,Moderate,11,2,Medium,5,2774,Physiotherapy,4,4,Mild,0
+785,Sprained Ankle,Severe,51,84,130/90,Severe,13,5,High,7,2096,Rest and Ice,4,1,Mild,0
+786,Muscle Strain,Moderate,26,67,110/70,Mild,27,4,Medium,5,2964,Stretching,3,4,Mild,1
+787,Muscle Strain,Severe,23,81,120/80,Moderate,16,7,Low,5,2112,Physiotherapy,3,3,Mild,1
+788,ACL Tear,Moderate,77,63,110/70,Mild,22,7,Low,8,2987,Physiotherapy,6,1,Moderate,0
+789,Muscle Strain,Mild,10,99,110/70,Moderate,24,6,High,8,2636,Stretching,6,2,Mild,1
+790,ACL Tear,Moderate,20,62,110/70,Mild,10,5,High,6,2455,Stretching,6,3,Mild,1
+791,Muscle Strain,Severe,9,88,110/70,Moderate,20,1,Medium,8,2462,Physiotherapy,5,1,Moderate,1
+792,Sprained Ankle,Severe,86,88,120/80,Severe,19,3,Medium,5,2947,Physiotherapy,4,1,Moderate,0
+793,Muscle Strain,Moderate,64,93,120/80,Severe,14,9,Low,8,2131,Stretching,6,1,Mild,0
+794,Muscle Strain,Mild,61,93,120/80,Mild,25,1,Medium,5,2929,Rest and Ice,4,4,Mild,0
+795,ACL Tear,Mild,10,87,110/70,Moderate,20,5,Low,7,2964,Physiotherapy,3,1,Mild,1
+796,Muscle Strain,Moderate,30,72,110/70,Moderate,15,2,High,5,2928,Stretching,4,2,Severe,1
+797,Muscle Strain,Moderate,40,74,110/70,Mild,18,4,Medium,6,2120,Rest and Ice,5,1,Severe,0
+798,ACL Tear,Severe,36,82,120/80,Moderate,22,1,High,7,2196,Physiotherapy,5,2,Mild,0
+799,Sprained Ankle,Mild,88,85,110/70,Mild,17,3,Medium,6,2805,Physiotherapy,4,2,Moderate,0
+800,Sprained Ankle,Moderate,25,63,130/90,Moderate,23,7,Low,6,2481,Stretching,5,2,Mild,1
+801,ACL Tear,Mild,37,85,110/70,Mild,10,3,High,6,2633,Rest and Ice,5,3,Moderate,0
+802,ACL Tear,Moderate,66,99,130/90,Moderate,26,4,High,8,2793,Physiotherapy,3,2,Moderate,0
+803,ACL Tear,Moderate,66,68,110/70,Mild,14,2,Medium,6,2896,Rest and Ice,6,4,Moderate,0
+804,ACL Tear,Mild,25,64,120/80,Moderate,11,3,High,7,2771,Rest and Ice,5,1,Mild,1
+805,ACL Tear,Moderate,55,91,110/70,Severe,18,9,Low,5,2038,Physiotherapy,6,4,Mild,0
+806,Sprained Ankle,Moderate,69,79,130/90,Moderate,13,3,High,6,2565,Rest and Ice,4,3,Moderate,0
+807,Sprained Ankle,Severe,89,70,130/90,Mild,26,5,High,7,2511,Physiotherapy,4,1,Severe,0
+808,ACL Tear,Moderate,28,74,110/70,Severe,26,2,Medium,6,2473,Rest and Ice,5,2,Severe,1
+809,Muscle Strain,Moderate,30,91,130/90,Moderate,27,4,High,5,2160,Physiotherapy,4,1,Severe,1
+810,ACL Tear,Moderate,82,87,130/90,Severe,25,7,Medium,7,2288,Stretching,3,3,Moderate,0
+811,Muscle Strain,Severe,36,81,120/80,Moderate,17,7,Medium,7,2199,Physiotherapy,5,3,Mild,0
+812,ACL Tear,Mild,64,76,110/70,Severe,20,3,High,5,2787,Physiotherapy,5,4,Moderate,0
+813,ACL Tear,Severe,37,85,110/70,Mild,27,5,Low,7,2527,Physiotherapy,5,1,Severe,0
+814,Sprained Ankle,Severe,70,66,110/70,Moderate,19,1,Medium,5,2916,Rest and Ice,4,1,Mild,0
+815,Muscle Strain,Mild,25,85,130/90,Moderate,22,1,High,7,2684,Stretching,4,1,Moderate,1
+816,Muscle Strain,Severe,54,84,110/70,Mild,26,5,Medium,7,2502,Rest and Ice,5,4,Moderate,0
+817,Sprained Ankle,Mild,51,69,110/70,Severe,27,9,Low,5,2247,Rest and Ice,6,3,Severe,0
+818,Sprained Ankle,Severe,61,78,120/80,Mild,19,1,Low,5,2382,Physiotherapy,4,2,Moderate,0
+819,Sprained Ankle,Mild,61,70,120/80,Mild,25,1,Medium,7,2217,Rest and Ice,4,1,Mild,0
+820,Sprained Ankle,Moderate,24,72,120/80,Severe,29,4,Low,7,2086,Physiotherapy,5,4,Severe,1
+821,Muscle Strain,Severe,69,67,130/90,Mild,14,4,High,5,2081,Stretching,6,4,Severe,0
+822,Muscle Strain,Severe,53,99,110/70,Moderate,22,2,High,8,2061,Rest and Ice,5,2,Mild,0
+823,ACL Tear,Severe,81,63,120/80,Moderate,27,9,Medium,5,2798,Rest and Ice,4,3,Severe,0
+824,ACL Tear,Severe,63,90,120/80,Moderate,26,9,Low,7,2499,Rest and Ice,5,1,Moderate,0
+825,Sprained Ankle,Moderate,51,87,120/80,Mild,18,2,High,7,2041,Physiotherapy,5,1,Moderate,0
+826,Sprained Ankle,Severe,39,70,110/70,Moderate,23,9,High,7,2011,Physiotherapy,5,4,Severe,0
+827,Sprained Ankle,Moderate,23,60,110/70,Moderate,26,6,High,5,2832,Rest and Ice,6,3,Mild,1
+828,ACL Tear,Moderate,76,97,110/70,Moderate,13,8,Medium,7,2745,Rest and Ice,5,1,Moderate,0
+829,ACL Tear,Moderate,10,83,130/90,Moderate,27,4,Medium,8,2840,Stretching,4,2,Mild,1
+830,ACL Tear,Moderate,26,90,130/90,Moderate,29,2,High,6,2642,Stretching,5,3,Moderate,1
+831,ACL Tear,Mild,53,85,120/80,Moderate,24,2,High,8,2114,Stretching,6,3,Moderate,0
+832,ACL Tear,Mild,21,64,110/70,Mild,20,9,Low,5,2217,Stretching,3,4,Severe,1
+833,ACL Tear,Severe,76,79,120/80,Moderate,21,1,Low,7,2648,Stretching,6,4,Severe,0
+834,ACL Tear,Mild,53,70,110/70,Moderate,18,7,Low,5,2105,Physiotherapy,5,1,Mild,0
+835,Sprained Ankle,Mild,84,92,110/70,Severe,22,3,Medium,6,2690,Stretching,3,4,Severe,0
+836,Sprained Ankle,Severe,81,97,110/70,Mild,24,3,High,5,2527,Stretching,5,3,Moderate,0
+837,Sprained Ankle,Severe,15,86,130/90,Mild,24,2,Medium,7,2471,Rest and Ice,6,1,Moderate,1
+838,Sprained Ankle,Severe,22,93,130/90,Mild,14,6,High,6,2753,Physiotherapy,3,1,Mild,1
+839,ACL Tear,Mild,75,74,110/70,Mild,28,2,Low,6,2845,Stretching,3,3,Mild,0
+840,Muscle Strain,Mild,67,91,120/80,Moderate,29,4,Low,7,2892,Stretching,5,1,Moderate,0
+841,ACL Tear,Severe,16,80,110/70,Moderate,23,9,Low,7,2386,Stretching,5,2,Severe,1
+842,Muscle Strain,Moderate,56,64,110/70,Severe,26,9,Low,7,2225,Rest and Ice,6,2,Severe,0
+843,Sprained Ankle,Severe,9,65,120/80,Severe,27,6,High,5,2480,Rest and Ice,5,1,Mild,1
+844,ACL Tear,Moderate,83,97,110/70,Mild,12,4,Low,8,2753,Rest and Ice,3,4,Mild,0
+845,Sprained Ankle,Moderate,76,81,120/80,Severe,11,7,High,5,2407,Stretching,4,2,Moderate,0
+846,ACL Tear,Severe,87,77,130/90,Severe,10,1,High,5,2456,Rest and Ice,4,1,Moderate,0
+847,Sprained Ankle,Severe,57,73,130/90,Mild,19,4,Medium,8,2652,Stretching,6,2,Mild,0
+848,Muscle Strain,Severe,25,69,120/80,Mild,28,5,Low,7,2897,Physiotherapy,5,4,Moderate,1
+849,Muscle Strain,Mild,48,72,130/90,Severe,26,8,Low,7,2710,Stretching,6,3,Mild,0
+850,Muscle Strain,Moderate,41,90,130/90,Moderate,21,2,Medium,8,2623,Rest and Ice,4,1,Mild,0
+851,ACL Tear,Mild,52,89,120/80,Severe,10,5,High,8,2638,Physiotherapy,4,1,Severe,0
+852,Muscle Strain,Mild,32,62,130/90,Severe,21,6,Low,5,2020,Stretching,5,1,Mild,0
+853,ACL Tear,Severe,75,89,110/70,Moderate,26,5,High,6,2658,Physiotherapy,3,1,Moderate,0
+854,Muscle Strain,Mild,70,65,110/70,Moderate,12,9,Medium,8,2600,Physiotherapy,5,1,Severe,0
+855,Muscle Strain,Severe,43,88,120/80,Mild,20,1,High,5,2814,Physiotherapy,4,1,Severe,0
+856,ACL Tear,Moderate,55,67,130/90,Mild,26,3,Low,6,2917,Stretching,3,4,Moderate,0
+857,ACL Tear,Severe,27,92,110/70,Severe,12,2,High,7,2202,Rest and Ice,6,3,Moderate,1
+858,Muscle Strain,Mild,80,76,110/70,Moderate,17,3,High,7,2416,Stretching,4,4,Moderate,0
+859,ACL Tear,Mild,70,70,130/90,Mild,29,9,Low,5,2415,Rest and Ice,6,4,Mild,0
+860,Muscle Strain,Severe,11,72,130/90,Severe,13,9,Low,5,2447,Stretching,3,3,Severe,1
+861,ACL Tear,Severe,76,70,110/70,Moderate,16,2,High,8,2511,Stretching,6,4,Mild,0
+862,Sprained Ankle,Mild,10,90,110/70,Severe,23,3,High,7,2084,Stretching,4,2,Mild,1
+863,Sprained Ankle,Moderate,45,87,120/80,Mild,23,4,Medium,5,2166,Rest and Ice,5,4,Mild,0
+864,Sprained Ankle,Moderate,41,65,120/80,Mild,13,9,Low,7,2383,Stretching,6,1,Mild,0
+865,Sprained Ankle,Severe,7,75,110/70,Moderate,25,3,High,7,2467,Physiotherapy,4,2,Severe,1
+866,Sprained Ankle,Moderate,30,63,120/80,Severe,10,7,Low,8,2071,Stretching,4,2,Severe,1
+867,Muscle Strain,Mild,63,94,110/70,Moderate,26,3,Medium,6,2809,Physiotherapy,3,3,Mild,0
+868,Sprained Ankle,Severe,76,85,110/70,Mild,19,7,High,8,2996,Rest and Ice,4,4,Moderate,0
+869,Sprained Ankle,Mild,47,71,120/80,Mild,25,7,High,5,2520,Rest and Ice,5,4,Severe,0
+870,Sprained Ankle,Mild,60,70,120/80,Severe,25,9,High,8,2792,Stretching,5,2,Mild,0
+871,Sprained Ankle,Moderate,52,96,130/90,Severe,17,2,Low,8,2472,Stretching,6,4,Moderate,0
+872,ACL Tear,Severe,66,84,130/90,Severe,16,6,Medium,7,2992,Stretching,6,4,Moderate,0
+873,Muscle Strain,Severe,66,77,130/90,Moderate,15,9,Low,8,2257,Physiotherapy,6,3,Mild,0
+874,Sprained Ankle,Moderate,63,78,110/70,Severe,25,2,High,5,2274,Rest and Ice,6,2,Severe,0
+875,Sprained Ankle,Mild,37,82,120/80,Severe,29,2,Medium,6,2749,Physiotherapy,5,1,Moderate,0
+876,Sprained Ankle,Mild,30,97,110/70,Mild,25,5,High,8,2019,Physiotherapy,3,2,Severe,1
+877,Muscle Strain,Mild,42,77,120/80,Mild,16,8,High,8,2489,Stretching,6,3,Severe,0
+878,ACL Tear,Mild,36,85,110/70,Severe,18,9,Low,6,2744,Stretching,3,3,Moderate,0
+879,Muscle Strain,Severe,30,65,130/90,Severe,23,2,High,5,2489,Physiotherapy,4,3,Mild,1
+880,ACL Tear,Severe,36,63,130/90,Mild,20,5,Medium,5,2732,Physiotherapy,4,4,Moderate,0
+881,Sprained Ankle,Moderate,13,88,130/90,Severe,23,7,High,8,2325,Stretching,6,2,Moderate,1
+882,Sprained Ankle,Moderate,41,93,110/70,Moderate,16,6,High,7,2528,Stretching,4,4,Severe,0
+883,Muscle Strain,Severe,61,76,120/80,Moderate,10,6,Low,8,2891,Physiotherapy,3,4,Mild,0
+884,Muscle Strain,Severe,20,75,120/80,Moderate,22,7,Medium,6,2088,Stretching,3,2,Severe,1
+885,ACL Tear,Mild,16,61,130/90,Severe,29,3,Low,6,2485,Stretching,4,3,Moderate,1
+886,ACL Tear,Mild,86,93,130/90,Mild,12,3,High,6,2707,Physiotherapy,6,1,Mild,0
+887,Muscle Strain,Moderate,22,67,130/90,Severe,29,9,Low,8,2349,Physiotherapy,3,1,Mild,1
+888,ACL Tear,Severe,60,72,130/90,Severe,13,8,Low,8,2083,Rest and Ice,3,2,Mild,0
+889,Muscle Strain,Moderate,83,67,120/80,Mild,20,5,Low,5,2386,Physiotherapy,5,2,Mild,0
+890,ACL Tear,Severe,76,89,110/70,Mild,11,6,Low,7,2086,Stretching,6,3,Mild,0
+891,Muscle Strain,Mild,50,91,110/70,Mild,23,1,High,8,2306,Physiotherapy,5,2,Moderate,0
+892,Muscle Strain,Moderate,79,95,110/70,Moderate,21,1,High,5,2849,Physiotherapy,4,2,Moderate,0
+893,Muscle Strain,Moderate,51,89,110/70,Severe,26,4,Medium,8,2153,Physiotherapy,4,3,Moderate,0
+894,ACL Tear,Severe,62,60,130/90,Mild,21,2,Low,5,2439,Rest and Ice,5,3,Severe,0
+895,ACL Tear,Mild,88,98,130/90,Severe,21,7,Low,5,2739,Rest and Ice,6,4,Mild,0
+896,ACL Tear,Moderate,63,76,130/90,Moderate,10,2,Medium,7,2959,Stretching,3,2,Mild,0
+897,Muscle Strain,Mild,27,79,110/70,Moderate,22,2,Low,8,2263,Rest and Ice,4,1,Moderate,1
+898,ACL Tear,Moderate,74,83,130/90,Mild,23,5,Medium,5,2976,Physiotherapy,6,2,Mild,0
+899,ACL Tear,Mild,56,81,130/90,Mild,11,4,High,6,2734,Rest and Ice,6,1,Severe,0
+900,Muscle Strain,Severe,39,88,120/80,Severe,21,8,Medium,6,2420,Physiotherapy,4,1,Mild,0
+901,Sprained Ankle,Moderate,13,81,120/80,Mild,25,4,Low,6,2492,Rest and Ice,4,1,Mild,1
+902,Muscle Strain,Moderate,76,68,130/90,Severe,13,6,Medium,7,2632,Rest and Ice,6,4,Severe,0
+903,ACL Tear,Mild,21,96,120/80,Mild,17,5,High,5,2992,Rest and Ice,3,3,Moderate,1
+904,Muscle Strain,Mild,88,69,120/80,Severe,11,2,Low,7,2410,Physiotherapy,5,3,Moderate,0
+905,Sprained Ankle,Moderate,38,95,130/90,Severe,19,8,High,8,2172,Rest and Ice,4,4,Mild,0
+906,Muscle Strain,Severe,81,96,130/90,Severe,18,2,High,8,2003,Physiotherapy,5,3,Severe,0
+907,ACL Tear,Mild,26,87,130/90,Severe,24,9,Medium,5,2853,Physiotherapy,6,4,Moderate,1
+908,Sprained Ankle,Mild,21,87,130/90,Moderate,22,9,High,6,2639,Stretching,5,2,Moderate,1
+909,ACL Tear,Mild,54,80,110/70,Severe,26,3,Low,5,2985,Rest and Ice,3,4,Moderate,0
+910,Sprained Ankle,Moderate,77,83,110/70,Mild,25,4,High,5,2991,Stretching,6,3,Mild,0
+911,Sprained Ankle,Moderate,27,99,130/90,Moderate,11,8,High,5,2471,Stretching,3,3,Severe,1
+912,Muscle Strain,Moderate,48,61,120/80,Moderate,29,9,Medium,7,2109,Physiotherapy,6,2,Mild,0
+913,Muscle Strain,Moderate,32,67,130/90,Severe,29,3,High,8,2866,Rest and Ice,3,4,Moderate,0
+914,ACL Tear,Severe,20,86,130/90,Moderate,23,5,Medium,5,2036,Physiotherapy,6,2,Severe,1
+915,Muscle Strain,Severe,63,81,120/80,Severe,12,8,Medium,5,2991,Physiotherapy,3,1,Mild,0
+916,Muscle Strain,Moderate,43,96,110/70,Mild,21,3,Low,5,2582,Rest and Ice,6,4,Moderate,0
+917,Sprained Ankle,Severe,64,86,130/90,Severe,17,7,Low,7,2800,Physiotherapy,3,2,Moderate,0
+918,Muscle Strain,Mild,27,88,130/90,Moderate,11,8,Low,7,2030,Rest and Ice,6,2,Mild,1
+919,Sprained Ankle,Mild,88,62,110/70,Mild,13,3,Low,7,2950,Rest and Ice,3,3,Moderate,0
+920,Sprained Ankle,Mild,75,72,110/70,Severe,23,2,Medium,5,2380,Physiotherapy,4,4,Moderate,0
+921,Sprained Ankle,Moderate,9,69,120/80,Mild,25,7,High,6,2267,Physiotherapy,5,1,Severe,1
+922,ACL Tear,Mild,43,95,110/70,Mild,28,9,Low,6,2010,Stretching,6,1,Moderate,0
+923,ACL Tear,Severe,55,68,110/70,Moderate,11,1,Low,6,2343,Physiotherapy,3,4,Mild,0
+924,ACL Tear,Moderate,25,86,110/70,Mild,21,3,Low,8,2839,Rest and Ice,4,4,Severe,1
+925,Sprained Ankle,Severe,18,93,120/80,Moderate,23,5,High,5,2543,Stretching,6,2,Mild,1
+926,ACL Tear,Mild,67,60,110/70,Mild,15,3,Low,6,2568,Rest and Ice,6,3,Moderate,0
+927,ACL Tear,Mild,47,91,110/70,Severe,22,1,High,6,2165,Stretching,6,3,Severe,0
+928,Muscle Strain,Mild,39,84,120/80,Mild,13,7,Medium,6,2699,Physiotherapy,5,3,Severe,0
+929,ACL Tear,Moderate,56,88,110/70,Severe,27,7,Medium,5,2341,Physiotherapy,3,4,Severe,0
+930,ACL Tear,Severe,74,66,110/70,Severe,21,8,Medium,6,2481,Physiotherapy,3,3,Severe,0
+931,Sprained Ankle,Moderate,77,62,120/80,Mild,29,5,High,6,2018,Rest and Ice,6,2,Mild,0
+932,Sprained Ankle,Moderate,39,79,130/90,Severe,28,5,Low,5,2627,Stretching,6,4,Moderate,0
+933,Sprained Ankle,Mild,87,79,120/80,Mild,17,5,Low,8,2979,Rest and Ice,6,4,Moderate,0
+934,Sprained Ankle,Moderate,30,89,110/70,Mild,16,1,Low,7,2183,Stretching,4,3,Severe,1
+935,Sprained Ankle,Moderate,67,94,110/70,Severe,25,5,Low,6,2781,Physiotherapy,6,1,Moderate,0
+936,Sprained Ankle,Mild,67,94,110/70,Severe,28,6,Low,7,2544,Rest and Ice,5,1,Mild,0
+937,ACL Tear,Moderate,34,98,120/80,Moderate,15,1,High,8,2009,Physiotherapy,3,2,Moderate,0
+938,Sprained Ankle,Mild,64,86,110/70,Severe,29,7,Medium,8,2591,Rest and Ice,5,3,Mild,0
+939,Sprained Ankle,Mild,49,85,110/70,Moderate,20,1,Low,6,2191,Physiotherapy,6,3,Mild,0
+940,Muscle Strain,Mild,47,73,120/80,Severe,14,2,Medium,5,2319,Rest and Ice,4,4,Moderate,0
+941,ACL Tear,Mild,45,76,130/90,Mild,25,2,High,8,2701,Rest and Ice,6,4,Mild,0
+942,ACL Tear,Moderate,55,77,130/90,Severe,16,5,High,7,2579,Stretching,6,3,Mild,0
+943,ACL Tear,Mild,23,88,110/70,Mild,14,7,Low,7,2474,Physiotherapy,6,4,Mild,1
+944,Sprained Ankle,Mild,76,79,120/80,Mild,20,1,High,7,2859,Stretching,6,3,Mild,0
+945,Sprained Ankle,Moderate,76,86,110/70,Mild,24,1,Medium,7,2636,Stretching,6,2,Severe,0
+946,Sprained Ankle,Moderate,71,77,120/80,Moderate,12,1,Low,8,2426,Physiotherapy,3,4,Moderate,0
+947,Muscle Strain,Severe,80,63,120/80,Severe,14,6,Low,6,2847,Rest and Ice,5,3,Severe,0
+948,Sprained Ankle,Moderate,11,60,130/90,Mild,14,2,Medium,6,2058,Stretching,4,4,Mild,1
+949,Muscle Strain,Moderate,8,60,130/90,Mild,18,1,Low,7,2435,Physiotherapy,6,2,Moderate,1
+950,ACL Tear,Severe,28,85,120/80,Moderate,24,6,Low,6,2096,Rest and Ice,4,4,Mild,1
+951,Sprained Ankle,Moderate,63,79,110/70,Severe,12,2,Medium,7,2495,Stretching,3,3,Moderate,0
+952,Muscle Strain,Moderate,72,82,130/90,Severe,15,6,Low,7,2786,Stretching,5,4,Severe,0
+953,Muscle Strain,Moderate,80,69,110/70,Moderate,26,8,Low,5,2660,Stretching,6,4,Moderate,0
+954,Sprained Ankle,Moderate,22,70,130/90,Moderate,17,2,Medium,8,2277,Rest and Ice,3,3,Mild,1
+955,ACL Tear,Severe,57,64,130/90,Severe,20,9,High,8,2264,Stretching,3,1,Moderate,0
+956,ACL Tear,Moderate,45,60,110/70,Moderate,15,8,Medium,7,2008,Rest and Ice,5,4,Moderate,0
+957,ACL Tear,Moderate,82,76,130/90,Severe,17,1,Low,8,2456,Stretching,6,4,Severe,0
+958,Muscle Strain,Severe,46,81,130/90,Severe,19,7,Medium,6,2794,Physiotherapy,5,2,Mild,0
+959,Muscle Strain,Mild,44,93,110/70,Mild,12,6,Low,7,2272,Stretching,5,1,Moderate,0
+960,Muscle Strain,Severe,66,88,130/90,Mild,23,6,Low,5,2939,Physiotherapy,4,2,Severe,0
+961,Muscle Strain,Mild,65,63,130/90,Severe,23,6,Medium,6,2812,Physiotherapy,4,3,Moderate,0
+962,ACL Tear,Severe,16,64,130/90,Severe,19,6,Low,5,2007,Physiotherapy,5,3,Mild,1
+963,Sprained Ankle,Severe,70,70,110/70,Severe,21,7,High,5,2207,Rest and Ice,4,2,Moderate,0
+964,Muscle Strain,Moderate,69,80,120/80,Severe,15,3,Low,8,2913,Physiotherapy,3,4,Moderate,0
+965,Muscle Strain,Mild,55,94,110/70,Severe,21,6,Medium,8,2636,Stretching,5,1,Moderate,0
+966,ACL Tear,Moderate,70,71,120/80,Severe,23,3,High,7,2122,Rest and Ice,6,2,Moderate,0
+967,Sprained Ankle,Mild,38,85,130/90,Moderate,11,7,High,8,2032,Physiotherapy,6,2,Mild,0
+968,Sprained Ankle,Severe,13,78,120/80,Severe,18,7,Low,5,2512,Rest and Ice,3,3,Severe,1
+969,ACL Tear,Severe,27,66,110/70,Moderate,19,8,Medium,5,2203,Rest and Ice,6,4,Severe,1
+970,ACL Tear,Mild,26,66,110/70,Moderate,26,2,Low,6,2517,Rest and Ice,6,1,Moderate,1
+971,Sprained Ankle,Moderate,32,85,130/90,Severe,26,9,Low,5,2808,Stretching,5,2,Mild,0
+972,Muscle Strain,Moderate,74,99,120/80,Severe,12,5,Medium,7,2950,Physiotherapy,3,1,Mild,0
+973,Sprained Ankle,Moderate,21,64,130/90,Moderate,28,9,Medium,7,2516,Rest and Ice,5,1,Mild,1
+974,ACL Tear,Moderate,85,80,130/90,Moderate,10,5,Low,8,2442,Rest and Ice,3,2,Mild,0
+975,Muscle Strain,Severe,20,73,110/70,Severe,21,7,High,8,2591,Rest and Ice,5,1,Mild,1
+976,Muscle Strain,Severe,33,63,120/80,Severe,16,9,Low,8,2785,Physiotherapy,5,3,Mild,0
+977,ACL Tear,Severe,46,82,120/80,Moderate,13,4,High,7,2688,Rest and Ice,4,4,Moderate,0
+978,ACL Tear,Severe,64,79,120/80,Moderate,19,2,Low,5,2849,Rest and Ice,6,4,Severe,0
+979,ACL Tear,Severe,34,74,120/80,Moderate,22,9,Medium,8,2832,Stretching,3,4,Severe,0
+980,Sprained Ankle,Moderate,32,88,130/90,Mild,11,2,High,6,2338,Physiotherapy,6,3,Moderate,0
+981,Sprained Ankle,Moderate,69,67,130/90,Moderate,19,3,Medium,8,2437,Stretching,4,3,Severe,0
+982,Muscle Strain,Moderate,72,78,110/70,Mild,13,2,Medium,7,2444,Physiotherapy,3,3,Mild,0
+983,ACL Tear,Moderate,31,98,130/90,Severe,27,3,Medium,8,2135,Physiotherapy,4,4,Mild,0
+984,Muscle Strain,Severe,9,87,130/90,Severe,14,6,Medium,5,2386,Physiotherapy,6,1,Severe,1
+985,Muscle Strain,Severe,78,86,110/70,Moderate,28,3,Medium,8,2024,Stretching,5,3,Mild,0
+986,Muscle Strain,Severe,50,63,110/70,Severe,11,8,Low,7,2505,Stretching,4,2,Mild,0
+987,Muscle Strain,Mild,48,74,110/70,Severe,21,6,High,7,2324,Stretching,4,3,Severe,0
+988,ACL Tear,Moderate,12,94,130/90,Severe,26,7,Low,6,2694,Stretching,5,2,Moderate,1
+989,Muscle Strain,Moderate,45,96,130/90,Severe,19,1,Low,7,2679,Rest and Ice,6,4,Severe,0
+990,ACL Tear,Severe,58,60,110/70,Mild,11,3,Low,6,2978,Rest and Ice,4,2,Severe,0
+991,ACL Tear,Moderate,29,62,110/70,Mild,15,3,Medium,5,2337,Rest and Ice,6,3,Severe,1
+992,Sprained Ankle,Moderate,56,83,110/70,Moderate,17,2,Low,7,2689,Physiotherapy,5,3,Severe,0
+993,ACL Tear,Severe,49,86,130/90,Moderate,28,7,High,8,2884,Rest and Ice,3,1,Moderate,0
+994,Sprained Ankle,Mild,25,99,130/90,Moderate,20,9,Low,5,2094,Physiotherapy,4,4,Moderate,1
+995,ACL Tear,Mild,75,95,120/80,Severe,21,4,Medium,8,2544,Stretching,6,2,Mild,0
+996,ACL Tear,Mild,57,93,130/90,Severe,18,5,High,8,2622,Physiotherapy,5,4,Mild,0
+997,ACL Tear,Severe,17,88,130/90,Mild,11,3,High,8,2145,Physiotherapy,5,3,Severe,1
+998,Sprained Ankle,Moderate,18,83,130/90,Mild,17,9,High,5,2892,Rest and Ice,4,1,Mild,1
+999,Sprained Ankle,Severe,80,83,110/70,Moderate,20,4,High,5,2952,Stretching,3,3,Moderate,0
+1000,Muscle Strain,Severe,14,63,130/90,Mild,13,5,Low,7,2230,Stretching,4,3,Mild,1
